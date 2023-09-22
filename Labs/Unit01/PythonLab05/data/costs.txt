@@ -1,0 +1,7 @@
+Apple 5.00
+Pear 2.60
+Bread 1.80
+Flowers 12.65
+Cheese 0.50
+Flour 3.99
+Milk 3.50
