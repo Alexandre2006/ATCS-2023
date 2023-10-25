@@ -65,7 +65,6 @@ class TicTacToe:
                     # Count and print board
                     self.board_count += 1
                     self.print_board()
-                    print()
                     # Recurse
                     self.print_every_board(next_player)
                     # Backtrack by removing move
