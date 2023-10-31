@@ -224,6 +224,59 @@ class TicTacToe:
         # You can use * before any iterable variable to pass in each element as a separate argument
         self.place_player(player, *random.choice(empty_positions))
     
+    def take_minimax_turn(self):
+        # Create Variable For Moves
+        best_move = None
+        best_score = None
+
+        # MiniMax all possible moves
+        for y in range(self.NUM_ROWS):
+            for x in range(self.NUM_COLS):
+                if self.board[y][x] == "-":
+                    # Place Player
+                    self.place_player("X", y, x)
+                    # Recurse
+                    score = self.minimax(self.player2)
+                    # Update best move
+                    if best_score == None or score > best_score:
+                        best_score = score
+                        best_move = (y, x)
+                    # Backtrack
+                    self.place_player("-", y, x)
+        
+        # Play best move
+        self.place_player(self.player2, *best_move)
+    
+    def minimax(self, player):
+        opposite_player = "X" if player == "O" else "O"
+
+        # Base Case
+        if self.check_win(opposite_player):
+            return 1 if opposite_player == "X" else -1
+        if self.check_tie:
+            return 0
+
+        best_score = None
+        for y in range(self.NUM_ROWS):
+            for x in range(self.NUM_COLS):
+                if self.board[y][x] == "-":
+                    # Place Player
+                    self.place_player("X", y, x)
+                    # Recurse
+                    print("CALLED")
+                    score = self.minimax(opposite_player)
+                    # Update best move
+                    if best_score == None:
+                        best_score = score
+                    elif score > best_score and player == "X":
+                        best_score = score
+                    elif score < best_score and player == "O":
+                        best_score = score
+                    # Backtrack
+                    self.place_player("-", y, x)
+        return best_score
+        
+    
     def take_turn(self, player):
         """
         Calls a manual turn for player 1
@@ -247,7 +300,7 @@ class TicTacToe:
         while True:
             player = self.player1 if self.player1_turn else self.player2
             if player == self.player2:
-                self.take_random_turn(player)
+                self.take_minimax_turn()
             else:
                 self.take_manual_turn(player)
             self.print_board()
