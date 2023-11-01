@@ -224,7 +224,7 @@ class TicTacToe:
         # You can use * before any iterable variable to pass in each element as a separate argument
         self.place_player(player, *random.choice(empty_positions))
     
-    def take_minimax_turn(self):
+    def take_minimax_turn(self, depth=3):
         # Create Variable For Moves
         best_move = None
         best_score = None
@@ -247,13 +247,15 @@ class TicTacToe:
         # Play best move
         self.place_player(self.player2, *best_move)
     
-    def minimax(self, player):
+    def minimax(self, player, depth=3):
         opposite_player = "X" if player == "O" else "O"
 
         # Base Case
         if self.check_win(opposite_player):
             return 1 if opposite_player == "X" else -1
         if self.check_tie:
+            return 0
+        if depth == 0:
             return 0
 
         best_score = None
@@ -264,7 +266,7 @@ class TicTacToe:
                     self.place_player("X", y, x)
                     # Recurse
                     print("CALLED")
-                    score = self.minimax(opposite_player)
+                    score = self.minimax(opposite_player, depth-1)
                     # Update best move
                     if best_score == None:
                         best_score = score
