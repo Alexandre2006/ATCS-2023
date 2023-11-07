@@ -224,59 +224,44 @@ class TicTacToe:
         # You can use * before any iterable variable to pass in each element as a separate argument
         self.place_player(player, *random.choice(empty_positions))
     
-    def take_minimax_turn(self, depth=3):
-        # Create Variable For Moves
-        best_move = None
-        best_score = None
+    def take_minimax_turn(self, depth=10):
+        score, move = self.minimax(self.player2, depth)
+        self.place_player(self.player2, *move)
+    
+    def minimax(self, player, depth=3):
+        # Find opposite player
+        opposite_player = "X" if player == "O" else "O"
 
-        # MiniMax all possible moves
+        # Base Cases
+        if self.check_win(opposite_player):
+            if opposite_player == "X":
+                return 1, None
+            else:
+                return -1, None
+        if depth == 0 or self.check_tie():
+            return 0, None
+        
+        # Store best move info
+        best_score = None
+        best_move = None
+
+        # Repeat for each possible move
         for y in range(self.NUM_ROWS):
             for x in range(self.NUM_COLS):
                 if self.board[y][x] == "-":
                     # Place Player
-                    self.place_player("X", y, x)
+                    self.place_player(player, y, x)
                     # Recurse
-                    score = self.minimax(self.player2)
+                    score, move = self.minimax(opposite_player, depth-1)
                     # Update best move
-                    if best_score == None or score > best_score:
+                    if best_score is None or (score > best_score and player == "X") or (score < best_score and player == "O"):
                         best_score = score
                         best_move = (y, x)
                     # Backtrack
                     self.place_player("-", y, x)
-        
-        # Play best move
-        self.place_player(self.player2, *best_move)
-    
-    def minimax(self, player, depth=3):
-        opposite_player = "X" if player == "O" else "O"
-
-        # Base Case
-        if self.check_win(opposite_player):
-            return 1 if opposite_player == "X" else -1
-        if self.check_tie:
-            return 0
-        if depth == 0:
-            return 0
-
-        best_score = None
-        for y in range(self.NUM_ROWS):
-            for x in range(self.NUM_COLS):
-                if self.board[y][x] == "-":
-                    # Place Player
-                    self.place_player("X", y, x)
-                    # Recurse
-                    print("CALLED")
-                    score = self.minimax(opposite_player, depth-1)
-                    # Update best move
-                    if best_score == None:
-                        best_score = score
-                    elif score > best_score and player == "X":
-                        best_score = score
-                    elif score < best_score and player == "O":
-                        best_score = score
-                    # Backtrack
-                    self.place_player("-", y, x)
-        return best_score
+        if best_score == None:
+            best_score = 0
+        return best_score, best_move
         
     
     def take_turn(self, player):
