@@ -67,5 +67,5 @@ class FSM:
             input_symbol (anything): The input to process
         """
         result = self.get_transition(input_symbol, self.current_state)
-        action = result[0]()
+        result[0]()
         self.current_state = result[1]
