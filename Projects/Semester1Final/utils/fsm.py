@@ -7,13 +7,17 @@ class FSM:
 
     # Configuration
     def register_transition(self, initial_state, event, action, parameters, final_state):
-        self.transitions[(initial_state, event)] = (action, final_state)
+        self.transitions[(initial_state, event)] = (action, parameters, final_state)
     
     # Execution
     def run_transition(self, event):
-        (action, parameters, final_state) = self.transitions[(self.current_state, event)]
-        action(*parameters)
-        self.current_state = final_state
+        try:
+            (action, parameters, final_state) = self.transitions[(self.current_state, event)]
+            if action != None:
+                action(*parameters)
+            self.current_state = final_state
+        except KeyError:
+            pass
     
     # Constructor
     def __init__(self, initial_state):

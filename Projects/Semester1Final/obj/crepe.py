@@ -1,4 +1,4 @@
-from Projects.Semester1Final.utils.fsm import *
+from utils.fsm import *
 import threading
 
 # Crepe class
@@ -7,28 +7,33 @@ class Crepe():
     # Properties
     crepe_fsm = FSM("uncooked")
     toppings = []
+    cook_timer = None
+    burn_timer = None
 
     # FSM - COOK TIME
-    def cook(self, side):
-        if side == 1 and self.crepe_fsm.current_state == "cooking_side_1":
-            self.crepe_fsm.run_transition("cooked_side_1")
-            print("Cooked!")
-        elif side == 2 and self.crepe_fsm.current_state == "cooking_side_2":
-            self.crepe_fsm.run_transition("cooked_side_2")
+    def cook(self):
+        if self.crepe_fsm.current_state == "cooking":
+            self.crepe_fsm.run_transition("cooked")
             print("Cooked!")
     
-    def burn(self, side):
-        if side == 1 and self.crepe_fsm.current_state == "cooked_side_1":
-            self.crepe_fsm.run_transition("burned")
-            print("Burned!")
-        elif side == 2 and self.crepe_fsm.current_state == "cooked_side_2":
-            self.crepe_fsm.run_transition("burned")
+    def burn(self):
+        if self.crepe_fsm.current_state == "cooked":
+            self.crepe_fsm.run_transition("burn")
             print("Burned!")
 
-    def start_cooking(self, side):
+    def start_cooking(self):
         print("Cooking!")
-        threading.Timer(5, self.cook, [side]).start()
-        threading.Timer(10, self.cook, [side]).start()
+        self.cook_timer = threading.Timer(5, self.cook)
+        self.cook_timer.start()
+        self.burn_timer = threading.Timer(10, self.burn)
+        self.burn_timer.start()
+    
+    def cancel(self):
+        if self.cook_timer != None:
+            self.cook_timer.cancel()
+        if self.burn_timer != None:
+            self.burn_timer.cancel()
+        toppings = []
     
     # Toppings
     def add_topping(self, topping):
@@ -37,22 +42,19 @@ class Crepe():
     # Constructor
     def __init__(self):
         # Cook Transitions
-        self.crepe_fsm.register_transition("uncooked", "cook_side_1", self.start_cooking, [1], "cooking_side_1")
-        self.crepe_fsm.register_transition("cooking_side_1", "cooked_side_1", self.start_cooking, [1], "cooked_side_1")
-        self.crepe_fsm.register_transition("cooked_side_1", "cook_side_2", self.start_cooking, [2], "cooking_side_2")
-        self.crepe_fsm.register_transition("cooking_side_2", "cooked_side_2", self.start_cooking, [2], "cooked_side_2")
-        self.crepe_fsm.register_transition("cooked_side_2", "plate", self.start_cooking, [1], "plated")
-        self.crepe_fsm.register_transition("plated", "server", self.start_cooking, [1], "served")
+        self.crepe_fsm.register_transition("uncooked", "cook", self.start_cooking, [], "cooking")
+        self.crepe_fsm.register_transition("cooking", "cooked", None, [], "cooked")
+        self.crepe_fsm.register_transition("cooked", "plate", None, [], "plated")
+        self.crepe_fsm.register_transition("plated", "serve", None, [], "uncooked")
 
         # Burn Transitions
-        self.crepe_fsm.register_transition("cooked_side_1", "burn_side_1", None, [1], "burned")
-        self.crepe_fsm.register_transition("cooked_side_2", "burn_side_2", None, [2], "burned")
+        self.crepe_fsm.register_transition("cooked", "burn", self.cancel, [], "burned")
 
-        # Throw Away (if not cooked or burned)
-        self.crepe_fsm.register_transition("uncooked", "throw", None, [1], "thrown_away")
-        self.crepe_fsm.register_transition("cooking_side_1", "throw", None, [1], "thrown_away")
-        self.crepe_fsm.register_transition("cooking_side_2", "throw", None, [1], "thrown_away")
-        self.crepe_fsm.register_transition("burned", "throw", None, [1], "thrown_away")
+        # Throw Away Transitions
+        self.crepe_fsm.register_transition("cooking", "throw", self.cancel, [], "uncooked")
+        self.crepe_fsm.register_transition("cooked", "throw", self.cancel, [], "uncooked")
+        self.crepe_fsm.register_transition("burned", "throw", self.cancel, [], "uncooked")
+        self.crepe_fsm.register_transition("plated", "throw", self.cancel, [], "uncooked")
         
                 
 

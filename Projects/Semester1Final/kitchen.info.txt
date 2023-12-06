@@ -1,0 +1,10 @@
+# 768 * 512 window resolution
+# 128 * 128 tile resolution
+# 6 * 4 sprites
+# A = Cooker
+# B = tile
+# C = Counter
+# D = Drawers
+# E = Plate
+# F = Trash
+# G = Stack
