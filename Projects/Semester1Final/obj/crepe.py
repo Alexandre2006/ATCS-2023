@@ -14,15 +14,12 @@ class Crepe():
     def cook(self):
         if self.crepe_fsm.current_state == "cooking":
             self.crepe_fsm.run_transition("cooked")
-            print("Cooked!")
     
     def burn(self):
         if self.crepe_fsm.current_state == "cooked":
             self.crepe_fsm.run_transition("burn")
-            print("Burned!")
 
     def start_cooking(self):
-        print("Cooking!")
         self.cook_timer = threading.Timer(5, self.cook)
         self.cook_timer.start()
         self.burn_timer = threading.Timer(10, self.burn)

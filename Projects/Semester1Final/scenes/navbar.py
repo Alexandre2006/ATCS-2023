@@ -19,7 +19,6 @@ class Navbar:
                         globals.current_scene = "store"
                     # Check for presses on order buttons
                     elif x >= 400 and x < 640 and y >= 32 and y < 64:
-                        print("YAYAYAYA")
                         if globals.customer == None:
                             globals.customer = Customer()
                         elif globals.customer.customer_fsm.current_state == "success":

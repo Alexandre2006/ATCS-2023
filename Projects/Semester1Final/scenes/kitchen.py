@@ -180,7 +180,6 @@ class Kitchen(Scene):
                     x = x // 128
                     y = y // 128
                     letter = self.kitchen_layout[y][x]
-                    print(letter)
 
                     # Check if letter is trash, plate, or crepe
                     if letter == "F":
@@ -209,7 +208,6 @@ class Kitchen(Scene):
                             topping = self.topping_map[y][x]
                             if topping not in self.current_crepe.toppings:
                                 self.current_crepe.add_topping(topping)
-                                print(self.current_crepe.toppings)
         # Navbar
         self.navbar.handle_events(events)
                     

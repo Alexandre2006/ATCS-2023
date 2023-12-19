@@ -69,7 +69,6 @@ class Customer():
         # Starting order timer
         self.fail_timer = threading.Timer(15, self.order_expired)
         self.fail_timer.start()
-        print("Taking order!")
     
     def order_expired(self):
         # If the customer is still waiting for their order, leave
@@ -88,13 +87,10 @@ class Customer():
             requested_toppings.append(self.order[i:i+2])
         requested_toppings.sort()
         toppings_converted.sort()
-        print("Requested: " + str(requested_toppings))
-        print("Toppings: " + str(toppings_converted))
         if requested_toppings == toppings_converted:
             earnings = 5
         else:
             earnings = 0
-        print("Earnings: $" + str(earnings))
         globals.money += earnings
         self.customer_fsm.run_transition("order_ready")
     

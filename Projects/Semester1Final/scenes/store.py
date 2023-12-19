@@ -79,9 +79,6 @@ class Store(Scene):
                         if globals.money >= 10:
                             globals.money -= 10
                             globals.available_crepes += 5
-                            print("Purchased 5 crepes!")
-                        else:
-                            print("Not enough money!")
                     # Return to Kitchen
                     elif event.pos[0] >= 0 and event.pos[0] <= 128 and event.pos[1] >= 0 and event.pos[1] <= 32:
                         globals.current_scene = "kitchen"
