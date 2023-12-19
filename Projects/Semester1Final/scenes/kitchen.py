@@ -73,9 +73,6 @@ class Kitchen(Scene):
         self.current_crepe.crepe_fsm.run_transition("cook")
 
 
-    def update(self, dt):
-        pass # Handled using timers/FSM
-
     def render(self):
         # Render Background
         for i in range(len(self.kitchen_layout)):
@@ -192,7 +189,8 @@ class Kitchen(Scene):
                     elif letter == "E":
                         if self.current_crepe.crepe_fsm.current_state == "cooked":
                             self.current_crepe.crepe_fsm.run_transition("plate")
-                        elif self.current_crepe.crepe_fsm.current_state == "plated":
+                        elif self.current_crepe.crepe_fsm.current_state == "plated" and globals.customer != None and globals.customer.customer_fsm.current_state == "waiting_for_order":
+                            globals.customer.grade(self.current_crepe)
                             self.current_crepe.crepe_fsm.run_transition("serve")
                     elif letter == "G":
                         if globals.available_crepes > 0 and self.current_crepe.crepe_fsm.current_state == "uncooked":
@@ -212,6 +210,8 @@ class Kitchen(Scene):
                             if topping not in self.current_crepe.toppings:
                                 self.current_crepe.add_topping(topping)
                                 print(self.current_crepe.toppings)
+        # Navbar
+        self.navbar.handle_events(events)
                     
 
                     

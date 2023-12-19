@@ -1,4 +1,4 @@
-from Projects.Semester1Final.utils.fsm import *
+from utils.fsm import *
 import threading
 import globals
 import random
@@ -8,63 +8,32 @@ class Customer():
 
     # Properties
     order = ""
-    position_x = 0
-    position_y = 0
     customer_fsm = FSM("waiting_to_take_order")
 
+    crepe_to_grade = {
+        "ham": "Ha",
+        "cheese": "Ch",
+        "mushroom": "Mu",
+        "tomato": "To",
+        "spinach": "Sp",
+        "bacon": "Ba",
+        "strawberry": "St",
+        "banana": "Bn",
+        "chocolate": "Co",
+        "whip": "Wh",
+        "blueberry": "Bl",
+        "apple": "Ap"
+    }
+
     # Here are the different values of the FSM:
-    # in_line
     # waiting for order - NOTE: will auto take order when first in line
     # eating
     # leaving/left
 
     def take_order(self):
-        # Starting order timer
-        threading.Timer(30, self.order_expired).start()
-        print("Taking order!")
-    
-    def order_expired(self):
-        # If the customer is still waiting for their order, leave
-        if self.customer_fsm.current_state == "waiting_for_order":
-            print("Order expired!")
-            self.customer_fsm.run_transition("left")
-    
-    def recalculate_line(self):
-        # Recalculate line position when customer leaves/receives food
-        self.position_y = len(globals.customers) + 1
-        self.position_x = 1
-
-        # If the customer is first in line, take their order
-        if self.position_y == 1:
-            self.customer_fsm.run_transition("take_order")
-    
-    def receive_food(self):
-        print("Received food!")
-        self.customer_fsm.run_transition("eating")
-        threading.Timer(15, self.leave).start()
-    
-    def leave(self):
-        print("Leaving!")
-
-
-    # Setup FSM tree
-    def __init__(self):
-        # Line / Recalculate Line
-        self.customer_fsm.register_transition("in_line", "recalculate_line", self.recalculate_line, [], "in_line")
-
-        # Take Order
-        self.customer_fsm.register_transition("in_line", "take_order", self.take_order, [], "waiting_for_order")
-
-        # Receive Food
-        self.customer_fsm.register_transition("waiting_for_order", "receive_food", None, [], "eating")
-
-        # Leaving
-        self.customer_fsm.register_transition("waiting_for_order", "leave", self.leave, [], "left")
-        self.customer_fsm.register_transition("eating", "leave", self.leave, [], "left")
-
         # Generate crepe type (savory or sweet)
-        self.order = random.choice(["sweet", 
-                                    #"savory",
+        type = random.choice(["sweet", 
+                                    "savory",
                                     ]) 
 
         # INGREDIENTS 
@@ -86,11 +55,61 @@ class Customer():
 
         # Generate crepe ingredients (2-4 ingredients)
         ingredient_count = random.randint(2, 4)
-        if self.order == "savory":
+        choices = []
+        if type == "savory":
             for i in range(ingredient_count):
-                self.order += random.choice(["Ha", "Ch", "Mu", "To", "Sp", "Ba"])
-        elif self.order == "sweet":
+               choices.append(random.choice(["Ha", "Ch", "Mu", "To", "Sp", "Ba"]))
+        elif type == "sweet":
             for i in range(ingredient_count):
-                self.order += random.choice(["St", "Bn", "Co", "Wh", "Bl", "Ap"])
-            
+               choices.append(random.choice(["St", "Bn", "Co", "Wh", "Bl", "Ap"]))
+        
+        # Remove duplicates
+        self.order = "".join(set(choices))
+        
+        # Starting order timer
+        self.fail_timer = threading.Timer(15, self.order_expired)
+        self.fail_timer.start()
+        print("Taking order!")
+    
+    def order_expired(self):
+        # If the customer is still waiting for their order, leave
+        if self.customer_fsm.current_state == "waiting_for_order":
+            self.customer_fsm.run_transition("order_expired")
+    
+    def grade(self, result):
+        # Calculate grade
+        earnings = 0
+        toppings = result.toppings
+        toppings_converted = []
+        for topping in toppings:
+            toppings_converted.append(self.crepe_to_grade[topping])
+        requested_toppings = []
+        for i in range(0, len(self.order), 2):
+            requested_toppings.append(self.order[i:i+2])
+        requested_toppings.sort()
+        toppings_converted.sort()
+        print("Requested: " + str(requested_toppings))
+        print("Toppings: " + str(toppings_converted))
+        if requested_toppings == toppings_converted:
+            earnings = 5
+        else:
+            earnings = 0
+        print("Earnings: $" + str(earnings))
+        globals.money += earnings
+        self.customer_fsm.run_transition("order_ready")
+    
+    def reset(self):
+        self.order = ""
+        if self.fail_timer != None:
+            self.fail_timer.cancel()
+
+    # Setup FSM tree
+    def __init__(self):
+        # Waiting to take order
+        self.customer_fsm.register_transition("waiting_to_take_order", "take_order", self.take_order, [], "waiting_for_order")
+        # Success
+        self.customer_fsm.register_transition("waiting_for_order", "order_ready", self.reset, [], "waiting_to_take_order")
+        # Fail
+        self.customer_fsm.register_transition("waiting_for_order", "order_expired", None, [], "fail")
+
 

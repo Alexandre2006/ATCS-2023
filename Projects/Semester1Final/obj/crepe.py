@@ -33,7 +33,7 @@ class Crepe():
             self.cook_timer.cancel()
         if self.burn_timer != None:
             self.burn_timer.cancel()
-        toppings = []
+        self.toppings = []
     
     # Toppings
     def add_topping(self, topping):
@@ -45,7 +45,7 @@ class Crepe():
         self.crepe_fsm.register_transition("uncooked", "cook", self.start_cooking, [], "cooking")
         self.crepe_fsm.register_transition("cooking", "cooked", None, [], "cooked")
         self.crepe_fsm.register_transition("cooked", "plate", None, [], "plated")
-        self.crepe_fsm.register_transition("plated", "serve", None, [], "uncooked")
+        self.crepe_fsm.register_transition("plated", "serve", self.cancel, [], "uncooked")
 
         # Burn Transitions
         self.crepe_fsm.register_transition("cooked", "burn", self.cancel, [], "burned")
