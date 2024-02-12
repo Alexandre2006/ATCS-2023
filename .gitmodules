@@ -1,6 +1,3 @@
 [submodule "Labs/Unit01/PlatformGame"]
 	path = Labs/Unit01/PlatformGame
 	url = https://github.com/Alexandre2006/PlatformGame
-[submodule "Labs/Unit05/ATCS-Data-Analysis"]
-	path = Labs/Unit05/ATCS-Data-Analysis
-	url = https://github.com/Alexandre2006/ATCS-Data-Analysis
