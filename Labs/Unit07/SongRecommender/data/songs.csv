@@ -1,0 +1,2001 @@
+artist,song,acousticness,speechiness,danceability
+Britney Spears,Oops!...I Did It Again,0.3,0.0437,0.751
+blink-182,All The Small Things,0.0103,0.0488,0.434
+Faith Hill,Breathe,0.173,0.029,0.529
+Bon Jovi,It's My Life,0.0263,0.0466,0.551
+*NSYNC,Bye Bye Bye,0.0408,0.0516,0.614
+Sisqo,Thong Song,0.119,0.0654,0.706
+Eminem,The Real Slim Shady,0.0302,0.0572,0.949
+Robbie Williams,Rock DJ,0.0267,0.0322,0.708
+Destiny's Child,Say My Name,0.273,0.102,0.713
+Modjo,Lady - Hear Me Tonight,0.00793,0.0379,0.72
+Gigi D'Agostino,L'Amour Toujours,0.0328,0.0292,0.617
+Eiffel 65,Move Your Body - Gabry Ponte Original Radio Edit,0.0813,0.0287,0.745
+Bomfunk MC's,Freestyler,0.0291,0.0989,0.822
+Sting,Desert Rose,0.011,0.0304,0.586
+Melanie C,Never Be The Same Again,0.0921,0.0478,0.689
+Aaliyah,Try Again,0.0807,0.29,0.797
+Anastacia,I'm Outta Love - Radio Edit,0.396,0.056,0.761
+Alice Deejay,Better Off Alone,0.00181,0.0552,0.671
+Gigi D'Agostino,The Riddle,0.0173,0.0369,0.74
+Dr. Dre,The Next Episode,0.0281,0.27,0.922
+Linkin Park,In the End,0.00958,0.0584,0.556
+Tom Jones,Sexbomb,0.144,0.0446,0.801
+Sonique,It Feels So Good,0.0117,0.0304,0.634
+M.O.P.,Cold as Ice,0.0421,0.143,0.656
+Melanie C,I Turn To You,0.00117,0.0327,0.522
+Limp Bizkit,Take A Look Around,0.0175,0.046,0.425
+Darude,Sandstorm,0.141,0.0465,0.528
+Da Brat,What'chu Like (feat. Tyrese),0.017,0.24,0.879
+Moloko,The Time Is Now,0.35,0.165,0.682
+Chicane,Don't Give Up,0.00145,0.0419,0.644
+DMX,Party Up,0.0738,0.347,0.51
+Debelah Morgan,Dance with Me,0.309,0.0373,0.85
+Madonna,Music,0.00149,0.0663,0.736
+Ruff Endz,No More,0.0324,0.0858,0.839
+Britney Spears,Born to Make You Happy,0.116,0.0454,0.633
+Montell Jordan,Get It On Tonite,0.241,0.077,0.813
+Kylie Minogue,Spinning Around,0.292,0.0548,0.761
+JAY-Z,Big Pimpin',0.168,0.14,0.88
+LeAnn Rimes,I Need You,0.02,0.0367,0.478
+Avant,Separated,0.247,0.0276,0.798
+Enrique Iglesias,Be With You,0.0395,0.0329,0.683
+Toni Braxton,He Wasn't Man Enough,0.00916,0.0411,0.739
+Bow Wow,Bounce With Me (feat. Xscape) - Edited Album Version,0.434,0.168,0.852
+Dr. Dre,Forgot About Dre,0.0827,0.0774,0.924
+Missy Elliott,Hot Boyz,0.339,0.291,0.727
+Backstreet Boys,Show Me the Meaning of Being Lonely,0.231,0.0252,0.63
+Samantha Mumba,Gotta Tell You,0.191,0.0279,0.729
+Mýa,Case Of The Ex (Whatcha Gonna Do),0.0548,0.0405,0.772
+Mary Mary,Shackles (Praise You),0.0343,0.162,0.779
+Next,Wifey,0.067,0.108,0.829
+Janet Jackson,Doesn't Really Matter,0.0993,0.076,0.771
+Ricky Martin,She Bangs - English Version,0.000915,0.0806,0.63
+Jagged Edge,He Can't Love U,0.112,0.206,0.721
+Sisqo,Incomplete,0.282,0.0771,0.746
+JAY-Z,I Just Wanna Love U (Give It 2 Me),0.301,0.24,0.8
+Mariah Carey,Thank God I Found You (feat. Joe & 98°),0.592,0.0331,0.348
+Baha Men,Who Let The Dogs Out,0.0605,0.0993,0.869
+Donell Jones,"U Know What's Up (feat. Lisa ""Left Eye"" Lopes)",0.0402,0.0844,0.854
+LeAnn Rimes,Can't Fight The Moonlight,0.403,0.0497,0.628
+Oasis,Go Let It Out,0.0136,0.0333,0.408
+DJ Ötzi,Hey Baby (Radio Mix),0.123,0.046,0.666
+P!nk,Most Girls,0.0424,0.0311,0.742
+Mariah Carey,Against All Odds (Take A Look at Me Now) (feat. Westlife),0.584,0.0315,0.471
+Craig David,Fill Me In,0.376,0.0365,0.682
+Christina Aguilera,I Turn to You,0.38,0.0376,0.599
+Madonna,American Pie,0.348,0.036,0.631
+Red Hot Chili Peppers,Otherside,0.00316,0.0574,0.458
+Sammie,I Like It,0.0101,0.0617,0.826
+Craig David,7 Days,0.23,0.0487,0.659
+Santana,Maria Maria (feat. The Product G&B),0.0406,0.126,0.777
+Kandi,Don't Think I'm Not,0.0661,0.0445,0.859
+P!nk,There You Go,0.0854,0.0917,0.822
+Vengaboys,Shalala Lala,0.0504,0.0328,0.751
+Ronan Keating,Life Is A Rollercoaster,0.1,0.0302,0.655
+Madison Avenue,Don't Call Me Baby,0.0585,0.0311,0.808
+Destiny's Child,"Jumpin', Jumpin'",0.00543,0.0567,0.771
+Céline Dion,That's the Way It Is,0.154,0.0434,0.634
+3 Doors Down,Kryptonite,0.00664,0.0286,0.545
+Carl Thomas,I Wish,0.0593,0.0337,0.736
+Mystikal,Shake Ya Ass,0.0626,0.32,0.914
+Fuel,Hemorrhage (In My Hands),0.000127,0.0404,0.313
+Donell Jones,Where I Wanna Be,0.52,0.0298,0.664
+Savage Garden,Crash and Burn,0.189,0.028,0.581
+Westlife,My Love,0.098,0.0255,0.491
+All Saints,Pure Shores,0.0498,0.0242,0.631
+Destiny's Child,"Independent Women, Pt. 1",0.362,0.206,0.73
+*NSYNC,It's Gonna Be Me,0.0459,0.0801,0.644
+Erykah Badu,Bag Lady,0.365,0.0841,0.724
+Marc Anthony,You Sang To Me,0.0103,0.0296,0.578
+Matchbox Twenty,Bent,0.0404,0.0386,0.518
+Gabrielle,Rise,0.315,0.026,0.558
+Backstreet Boys,Shape of My Heart,0.252,0.0296,0.575
+Creed,With Arms Wide Open,0.00425,0.0302,0.41
+The Corrs,Breathless,0.0541,0.0597,0.607
+Joe,I Wanna Know,0.26,0.0368,0.725
+Wheatus,Teenage Dirtbag,0.346,0.0495,0.625
+Christina Aguilera,Come on over Baby (All I Want Is You) - Radio Version,0.226,0.106,0.829
+Creed,Higher,5.15e-05,0.0364,0.459
+Britney Spears,Lucky,0.262,0.0317,0.765
+Nelly,Country Grammar (Hot Shit),0.00689,0.108,0.865
+Shaggy,It Wasn't Me,0.0561,0.0713,0.853
+Destiny's Child,Survivor,0.0559,0.41,0.514
+Eminem,Stan,0.0371,0.238,0.78
+Kylie Minogue,Can't Get You out of My Head,0.0263,0.0339,0.766
+Christina Aguilera,"Lady Marmalade - From ""Moulin Rouge"" Soundtrack",0.0144,0.0534,0.76
+Nelly Furtado,I'm Like A Bird,0.138,0.036,0.622
+Shakira,"Whenever, Wherever",0.237,0.0407,0.794
+Jimmy Eat World,The Middle,0.0371,0.0526,0.643
+Train,Drops of Jupiter (Tell Me),0.153,0.0276,0.481
+Geri Halliwell,It's Raining Men,0.063,0.0447,0.637
+Blu Cantrell,Hit 'Em Up Style (Oops!),0.201,0.0586,0.667
+Britney Spears,I'm a Slave 4 U,0.415,0.106,0.847
+Kylie Minogue,In Your Eyes,0.133,0.0672,0.689
+Missy Elliott,One Minute Man (feat. Ludacris),0.0266,0.329,0.622
+Mary J. Blige,Family Affair,0.132,0.0449,0.911
+Faithless,We Come 1 - Radio Edit,0.00188,0.0441,0.645
+Limp Bizkit,Rollin' (Air Raid Vehicle),0.00591,0.171,0.603
+Lasgo,Something,0.0271,0.0439,0.643
+iio,Rapture (feat.Nadia Ali),0.0722,0.0377,0.661
+Emma Bunton,What Took You So Long?,0.123,0.0307,0.668
+112,It's Over Now,0.0106,0.0409,0.66
+Blue,All Rise,0.121,0.0324,0.721
+Jessica Simpson,Irresistible,0.0285,0.0556,0.657
+Crazy Town,Butterfly,0.00132,0.081,0.736
+Michael Jackson,You Rock My World,0.038,0.185,0.854
+Eve,Let Me Blow Ya Mind,0.242,0.107,0.908
+Jennifer Lopez,Ain't It Funny,0.104,0.0481,0.707
+Brandy,Another Day in Paradise - R&B-Version,0.00666,0.0327,0.7
+Nickelback,How You Remind Me,0.00135,0.033,0.446
+Daft Punk,One More Time,0.0194,0.133,0.613
+Outkast,Ms. Jackson,0.143,0.269,0.843
+Fragma,Everytime You Need Me - Radio Version,0.15,0.0318,0.682
+Mariah Carey,Loverboy,0.183,0.124,0.721
+Dido,Thank You,0.3,0.0427,0.725
+Joe,Stutter (feat. Mystikal) - Double Take Remix,0.0513,0.117,0.767
+P.O.D.,Youth of the Nation,0.00834,0.0621,0.563
+Jennifer Lopez,Play,0.0303,0.162,0.775
+Missy Elliott,Get Ur Freak On,0.533,0.247,0.797
+Ricky Martin,Nobody Wants to Be Lonely (with Christina Aguilera),0.00579,0.0612,0.635
+Christina Milian,AM To PM,0.153,0.12,0.872
+Roger Sanchez,Another Chance,0.000211,0.0312,0.61
+Gorillaz,Clint Eastwood,0.0253,0.171,0.663
+2Pac,Until The End Of Time,0.0267,0.203,0.757
+Tamia,Stranger in My House,0.103,0.0297,0.676
+Mary J. Blige,No More Drama,0.534,0.124,0.653
+Jennifer Lopez,Love Don't Cost a Thing,0.00305,0.0707,0.786
+Jamiroquai,Little L,0.168,0.129,0.878
+Case,Missing You,0.285,0.0553,0.612
+112,Peaches & Cream,0.00277,0.334,0.677
+Five,Let's Dance - Radio Edit,0.00876,0.0867,0.631
+Rui Da Silva,Touch Me (Radio Edit) [feat. Cassandra],0.124,0.0638,0.464
+Alien Ant Farm,Smooth Criminal,0.00316,0.0582,0.653
+Erick Sermon,Music (feat. Marvin Gaye),0.187,0.203,0.897
+D12,Purple Pills,0.0199,0.16,0.78
+Usher,Pop Ya Collar - Radio Edit,0.0901,0.0946,0.888
+Madonna,Don't Tell Me,0.0502,0.0594,0.699
+Blue,If You Come Back,0.0822,0.0319,0.582
+Atomic Kitten,Eternal Flame - Single Version,0.0658,0.0318,0.578
+Jagged Edge,Where the Party At (feat. Nelly),0.31,0.226,0.596
+Afroman,Because I Got High,0.169,0.488,0.802
+S Club 7,Don't Stop Movin',0.0285,0.0329,0.822
+Craig David,Fill Me In,0.376,0.0365,0.682
+Nelly Furtado,Turn Off The Light,0.0839,0.0927,0.587
+The Supermen Lovers,Starlight - Radio Edit,0.000424,0.0373,0.739
+Mis-Teeq,All I Want - Sunship Radio Edit,0.37,0.0835,0.795
+Jagged Edge,Promise,0.136,0.0872,0.751
+S Club 7,Have You Ever,0.538,0.0325,0.585
+Enya,Only Time,0.841,0.0301,0.418
+Faith Hill,There You'll Be,0.513,0.0306,0.321
+Ronan Keating,Lovin' Each Day,0.0178,0.0633,0.541
+Destiny's Child,Bootylicious,0.00281,0.275,0.84
+Steps,It's the Way You Make Me Feel,0.108,0.0239,0.573
+Sunshine Anderson,Heard It All Before,0.0614,0.216,0.697
+Lenny Kravitz,Again,0.0148,0.0271,0.55
+Daniel Bedingfield,Gotta Get Thru This - D'N'D Radio Edit,0.0826,0.0598,0.836
+DB Boulevard,Point Of View - Radio Edit,0.00284,0.0287,0.676
+Janet Jackson,All For You,0.0174,0.0736,0.753
+Atomic Kitten,Whole Again,0.0844,0.0413,0.747
+Ja Rule,Livin' It Up,0.0554,0.311,0.874
+Destiny's Child,"Independent Women, Pt. 1",0.362,0.206,0.73
+DJ Pied Piper & The Masters Of Ceremonies,Do You Really Like It? - Radio Edit,0.124,0.0493,0.847
+Jennifer Lopez,I'm Real (feat. Ja Rule) - Murder Remix,0.273,0.151,0.708
+Musiq Soulchild,Love,0.342,0.0499,0.569
+So Solid Crew,21 Seconds,0.0191,0.241,0.607
+Robbie Williams,Eternity,0.504,0.0265,0.469
+Basement Jaxx,Romeo,0.00769,0.0491,0.713
+Ludacris,Southern Hospitality (Featuring Pharrell),0.035,0.247,0.623
+Gabrielle,Rise,0.315,0.026,0.558
+Nelly,Ride Wit Me,0.0616,0.0478,0.85
+Trick Daddy,I'm a Thug,0.0275,0.122,0.933
+Travis,Sing,0.000233,0.0497,0.33
+JAY-Z,Izzo (H.O.V.A.),0.0178,0.342,0.618
+Gabrielle,Out Of Reach,0.503,0.0452,0.51
+OPM,Heaven Is a Halfpipe (If I Die),0.0755,0.0349,0.743
+K-Ci & JoJo,Crazy,0.084,0.0258,0.68
+Staind,It's Been Awhile,0.00189,0.0338,0.509
+3LW,No More (Baby I'ma Do Right),0.102,0.0631,0.721
+Ginuwine,Differences,0.318,0.0558,0.562
+*NSYNC,Gone,0.421,0.0614,0.699
+Lifehouse,Hanging By A Moment,0.000966,0.0349,0.537
+Nelly,Dilemma,0.227,0.14,0.727
+Eminem,Without Me,0.00286,0.0738,0.908
+Avril Lavigne,Complicated,0.0572,0.0459,0.585
+Vanessa Carlton,A Thousand Miles,0.323,0.0379,0.56
+The Calling,Wherever You Will Go,0.0367,0.0267,0.558
+Shakira,Underneath Your Clothes,0.691,0.0415,0.616
+No Doubt,Underneath It All,0.232,0.0684,0.729
+Truth Hurts,Addictive,0.0737,0.147,0.701
+Busta Rhymes,I Know What You Want (feat. Flipmode Squad),0.0142,0.306,0.648
+Eminem,'Till I Collapse,0.0622,0.186,0.548
+Diddy,"I Need a Girl (Pt. 2) [feat. Loon, Ginuwine & Mario Winans]",0.421,0.483,0.713
+Christina Milian,When You Look At Me - Radio Edit,0.0934,0.127,0.955
+Madonna,Die Another Day,0.062,0.0901,0.792
+Jennifer Lopez,I'm Gonna Be Alright (feat. Nas),0.106,0.265,0.718
+Angie Martinez,If I Could Go! (feat. Lil' Mo & Sacario),0.171,0.355,0.583
+Linkin Park,In the End,0.00958,0.0584,0.556
+Las Ketchup,The Ketchup Song (Aserejé) - Spanglish Version,0.0193,0.0948,0.607
+Aaliyah,Rock The Boat,0.0688,0.0336,0.641
+Holly Valance,Kiss Kiss,0.00369,0.125,0.705
+Sugababes,Round Round,0.00287,0.0338,0.74
+Marilyn Manson,Tainted Love,0.00107,0.0728,0.622
+Brandy,What About Us?,0.263,0.223,0.686
+Chad Kroeger,Hero (feat. Josey Scott),0.00216,0.0364,0.427
+Britney Spears,Overprotected - Radio Edit,0.0381,0.0727,0.682
+Scooter,The Logical Song,0.00112,0.0382,0.527
+Missy Elliott,4 My People (feat. Eve),0.14,0.156,0.969
+Aaliyah,More Than A Woman,0.0556,0.0787,0.646
+Brandy,Full Moon,0.372,0.139,0.611
+Blue,One Love,0.0243,0.0358,0.683
+Busta Rhymes,Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix,0.0844,0.323,0.697
+Céline Dion,A New Day Has Come - Radio Remix,0.0826,0.035,0.574
+Scooter,Nessaja,0.000748,0.0364,0.486
+Eve,Gangsta Lovin',0.0619,0.0608,0.723
+Disturbing Tha Peace,Move Bitch,0.245,0.133,0.777
+Khia,"My Neck, My Back (Lick It)",0.0296,0.13,0.859
+Tweet,Oops (Oh My) [feat. Missy Elliott],0.233,0.29,0.66
+Kylie Minogue,Spinning Around,0.292,0.0548,0.761
+Nelly,Hot In Herre,0.206,0.12,0.956
+Gareth Gates,Anyone of Us (Stupid Mistake),0.285,0.0261,0.7
+Christina Aguilera,Dirrty (feat. Redman),0.107,0.322,0.64
+B2K,Uh Huh,0.0881,0.0688,0.855
+Sugababes,Freak Like Me,0.0996,0.0925,0.517
+Dirty Vegas,Days Go By,0.0499,0.0688,0.786
+Fat Joe,What's Luv? (feat. Ja-Rule & Ashanti),0.0219,0.0598,0.835
+Liberty X,Just A Little,0.00616,0.0574,0.786
+No Doubt,Hella Good,0.0135,0.035,0.771
+LL Cool J,Luv U Better,0.232,0.239,0.668
+Red Hot Chili Peppers,Can't Stop,0.0179,0.0456,0.618
+Musiq Soulchild,Halfcrazy,0.462,0.18,0.412
+Sean Paul,Gimme the Light,0.141,0.0525,0.778
+Faith Evans,I Love You,0.00981,0.0926,0.489
+Charli Baltimore,Down 4 U,0.252,0.32,0.64
+Kylie Minogue,Love at First Sight,0.0288,0.0428,0.603
+N.O.R.E.,Nothin',0.317,0.151,0.791
+Gareth Gates,Unchained Melody,0.255,0.0277,0.368
+Diddy,I Need a Girl (Pt. 1) [feat. Usher & Loon],0.397,0.208,0.66
+Big Brovaz,Nu Flow,0.0903,0.106,0.783
+No Doubt,Hey Baby,0.0602,0.125,0.705
+Ashanti,Baby,0.0084,0.223,0.567
+Sophie Ellis-Bextor,Murder On The Dancefloor,0.00312,0.0309,0.734
+Justin Timberlake,Like I Love You,0.0439,0.0646,0.853
+Mary J. Blige,Rainy Dayz,0.195,0.229,0.412
+A1,Caught in the Middle,0.0524,0.034,0.519
+Eminem,Cleanin' Out My Closet,0.0687,0.174,0.908
+Ashanti,Happy,0.241,0.0289,0.727
+Delta Goodrem,Born to Try,0.246,0.0284,0.542
+P!nk,Get the Party Started,0.0011,0.046,0.802
+Alicia Keys,A Woman's Worth,0.333,0.158,0.652
+Daniel Bedingfield,Gotta Get Thru This - D'N'D Radio Edit,0.0862,0.0586,0.838
+Coldplay,Clocks,0.599,0.0279,0.577
+Missy Elliott,Work It,0.0778,0.283,0.884
+Ronan Keating,If Tomorrow Never Comes,0.333,0.028,0.555
+Big Tymers,Still Fly,0.0302,0.162,0.675
+Creed,My Sacrifice,0.000101,0.0504,0.32
+Ja Rule,Always On Time,0.208,0.199,0.839
+Ashanti,Foolish,0.347,0.0532,0.665
+Avril Lavigne,Sk8er Boi,6.79e-05,0.0482,0.487
+DJ Sammy,Heaven,0.0011,0.0548,0.571
+Britney Spears,"I'm Not a Girl, Not Yet a Woman",0.579,0.0245,0.534
+Cam’ron,Oh Boy,0.0216,0.145,0.754
+Red Hot Chili Peppers,By the Way,0.0264,0.107,0.451
+Elvis Presley,A Little Less Conversation - JXL Radio Edit Remix,0.000385,0.0502,0.597
+Atomic Kitten,The Tide Is High - Radio Mix,0.0209,0.0322,0.783
+*NSYNC,Girlfriend,0.0887,0.0884,0.745
+Robbie Williams,Somethin' Stupid,0.429,0.0261,0.654
+Alanis Morissette,Hands Clean,0.00192,0.0299,0.513
+Usher,U Don't Have to Call,0.0478,0.0459,0.793
+Creed,One Last Breath - Radio Version,0.00571,0.0365,0.38
+The Goo Goo Dolls,Here Is Gone,0.00052,0.0322,0.338
+Puddle Of Mudd,She Hates Me,0.00935,0.0323,0.58
+Ludacris,Rollout (My Business),0.0949,0.235,0.921
+Blazin' Squad,Crossroads - Radio Edit,0.109,0.042,0.661
+Default,Wasting My Time,0.00138,0.0312,0.443
+Michelle Branch,All You Wanted,0.00466,0.0286,0.499
+Daniel Bedingfield,If You're Not The One,0.504,0.0292,0.688
+Enrique Iglesias,Escape,0.0277,0.0297,0.776
+Puddle Of Mudd,Blurry,0.00691,0.0562,0.432
+Coldplay,In My Place,0.0553,0.0278,0.424
+Outkast,The Whole World (feat. Killer Mike),0.0958,0.401,0.814
+P!nk,Don't Let Me Get Me - Radio Edit,0.00234,0.0756,0.624
+50 Cent,In Da Club,0.255,0.366,0.899
+Sean Paul,Get Busy,0.615,0.036,0.735
+Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",0.00921,0.264,0.686
+Beyoncé,Crazy In Love (feat. Jay-Z),0.00249,0.226,0.646
+Counting Crows,Big Yellow Taxi,0.00204,0.0494,0.669
+Black Eyed Peas,Where Is The Love?,0.101,0.184,0.835
+Jennifer Lopez,Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix,0.00733,0.188,0.845
+Black Eyed Peas,Shut Up,0.0637,0.243,0.81
+t.A.T.u.,All The Things She Said,0.0411,0.0474,0.527
+Benny Benassi,Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz,0.163,0.104,0.793
+Busta Rhymes,I Know What You Want (feat. Flipmode Squad),0.0142,0.306,0.648
+Panjabi MC,Mundian to Bach Ke,0.399,0.0371,0.778
+Mis-Teeq,Scandalous - U.S. Radio Edit,0.0526,0.0349,0.734
+JAY-Z,03' Bonnie & Clyde,0.23,0.314,0.759
+50 Cent,P.I.M.P.,0.0521,0.346,0.712
+Jamelia,Superstar,0.0457,0.0356,0.801
+Linkin Park,Faint,0.111,0.131,0.554
+DMX,X Gon' Give It To Ya,0.0135,0.183,0.761
+Evanescence,Bring Me To Life,0.00721,0.0698,0.331
+Sugababes,Hole In The Head,0.0303,0.0309,0.785
+Craig David,Rise & Fall (feat. Sting),0.252,0.0586,0.405
+Three Days Grace,I Hate Everything About You,0.00461,0.0421,0.498
+Lil Jon & The East Side Boyz,Get Low,0.022,0.0396,0.78
+B2K,"Bump, Bump, Bump (feat. P. Diddy)",0.1,0.21,0.835
+Baby Bash,Suga Suga,0.688,0.268,0.662
+Aaliyah,Miss You - Main,0.618,0.0375,0.602
+Britney Spears,Me Against the Music (feat. Madonna) - LP Version / Video Mix,0.32,0.089,0.804
+Blue,Sorry Seems To Be The Hardest Word,0.183,0.0305,0.564
+Delta Goodrem,Lost Without You,0.0365,0.0283,0.581
+Justin Timberlake,Rock Your Body,0.201,0.141,0.892
+The White Stripes,Seven Nation Army,0.00601,0.0805,0.741
+Youngbloodz,Damn! (feat. Lil' Jon) - Club Mix,0.0149,0.307,0.772
+Beyoncé,Baby Boy (feat. Sean Paul),0.0825,0.22,0.655
+Lil' Kim,Magic Stick,0.116,0.272,0.849
+Christina Aguilera,Can't Hold Us Down (feat. Lil' Kim),0.0326,0.192,0.859
+Nickelback,Someday,0.000616,0.0391,0.455
+Blue,U Make Me Wanna - Radio Edit,0.325,0.0329,0.6
+Ashanti,Rain On Me,0.343,0.0337,0.606
+Trapt,Headstrong,0.000172,0.117,0.492
+Simply Red,Sunrise,0.00189,0.029,0.791
+Lumidee,"Never Leave You (Uh Oooh, Uh Oooh)",0.0391,0.362,0.811
+Girls Aloud,Sound Of The Underground,0.00344,0.0365,0.568
+Nelly,Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster,0.176,0.295,0.527
+Room 5,Make Luv,0.0111,0.116,0.883
+Fatman Scoop,Be Faithful,0.000787,0.295,0.649
+Limp Bizkit,Behind Blue Eyes,0.497,0.0271,0.595
+Sugababes,Too Lost In You,0.0485,0.0287,0.586
+50 Cent,"Wanksta - From ""8 Mile"" Soundtrack",0.0199,0.2,0.802
+Pharrell Williams,Frontin' (feat. Jay-Z) - Club Mix,0.453,0.13,0.894
+Chingy,Right Thurr,0.15,0.253,0.866
+Eminem,Sing For The Moment,0.0017,0.137,0.668
+Lil' Kim,The Jump Off (feat. Mr. Cheeks) - Remix,0.178,0.339,0.853
+Mýa,My Love Is Like...Wo - Main Mix,0.194,0.109,0.831
+50 Cent,21 Questions,0.349,0.299,0.646
+Nelly,Air Force Ones,0.0847,0.317,0.784
+Missy Elliott,Gossip Folks (feat. Ludacris),0.362,0.505,0.707
+Girls Aloud,Jump,0.00189,0.0346,0.658
+Ultrabeat,Pretty Green Eyes - Radio Edit,0.212,0.043,0.553
+Christina Aguilera,Fighter,0.235,0.201,0.435
+Frankie J,Don't Wanna Try,0.444,0.0348,0.655
+Snoop Dogg,Beautiful,0.299,0.132,0.893
+Floetry,Say Yes,0.211,0.0743,0.747
+Ginuwine,In Those Jeans,0.508,0.0776,0.691
+Electric Six,Danger! High Voltage - Soulchild Radio Mix,1.92e-05,0.0302,0.66
+Rachel Stevens,Sweet Dreams My LA Ex - Radio Edit,0.0733,0.138,0.85
+Ludacris,Stand Up,0.367,0.349,0.751
+Nas,I Can,0.103,0.182,0.837
+3 Doors Down,When I'm Gone,0.00385,0.0284,0.53
+Tyrese,How You Gonna Act Like That,0.107,0.0457,0.733
+Justin Timberlake,Cry Me a River,0.577,0.183,0.624
+Westlife,Mandy,0.254,0.0278,0.447
+No Doubt,It's My Life,0.00202,0.0282,0.612
+Amanda Perez,Angel,0.506,0.0473,0.638
+JAY-Z,Excuse Me Miss,0.0305,0.286,0.714
+Coldplay,Clocks,0.599,0.0279,0.577
+Kelly Rowland,Stole,0.00676,0.0594,0.649
+Missy Elliott,Work It,0.0778,0.283,0.884
+Ashanti,Rock Wit U (Awww Baby),0.408,0.0582,0.71
+Junior Senior,Move Your Feet,0.046,0.0803,0.747
+Audioslave,Like a Stone,0.00797,0.0276,0.614
+Sean Paul,Like Glue,0.0811,0.319,0.757
+Jaheim,Put That Woman First,0.492,0.132,0.649
+Jennifer Lopez,All I Have (feat. LL Cool J),0.271,0.107,0.701
+Monica,So Gone,0.176,0.0981,0.618
+Dido,White Flag,0.327,0.0401,0.512
+The Roots,The Seed (2.0),0.039,0.0357,0.758
+Chingy,Holidae In,0.0893,0.181,0.81
+Fabolous,Can't Let You Go (feat. Mike Shorey & Lil' Mo),0.231,0.458,0.646
+Kelly Clarkson,Miss Independent,0.0769,0.137,0.656
+Ja Rule,Mesmerize,0.0566,0.199,0.769
+Matchbox Twenty,Unwell,0.0298,0.0403,0.256
+Outkast,The Way You Move (feat. Sleepy Brown),0.126,0.0464,0.871
+Fabolous,Into You (feat. Tamia),0.233,0.0523,0.546
+Switchfoot,Meant to Live,0.00575,0.0457,0.397
+Daniel Bedingfield,If You're Not The One,0.504,0.0292,0.688
+Good Charlotte,Lifestyles of the Rich & Famous,0.00043,0.0374,0.62
+Wayne Wonder,No Letting Go,0.0479,0.0444,0.496
+The Strokes,Reptilia,0.000603,0.0336,0.489
+Avril Lavigne,I'm with You,0.08,0.0291,0.457
+Will Young,Leave Right Now,0.145,0.0368,0.641
+Usher,Yeah! (feat. Lil Jon & Ludacris),0.0183,0.112,0.894
+Maroon 5,This Love,0.0525,0.0378,0.712
+Britney Spears,Toxic,0.0249,0.114,0.774
+Outkast,Hey Ya!,0.103,0.0664,0.727
+Hoobastank,The Reason,0.0129,0.029,0.472
+Anastacia,Left Outside Alone,0.0697,0.0321,0.663
+Daddy Yankee,Gasolina,0.332,0.0618,0.857
+Black Eyed Peas,Let's Get It Started - Spike Mix,0.117,0.126,0.785
+O-Zone,Dragostea Din Tei,0.177,0.0427,0.809
+Terror Squad,Lean Back,0.11,0.415,0.783
+Anastacia,Sick and Tired,0.00908,0.0373,0.598
+Gwen Stefani,What You Waiting For?,0.0509,0.0628,0.676
+Ashanti,Only U - No Intro,0.0374,0.0434,0.601
+The Rasmus,In the Shadows,0.000109,0.0275,0.6
+Houston,I Like That,0.0154,0.0968,0.797
+Beyoncé,Naughty Girl,0.239,0.0857,0.735
+Linkin Park,Numb,0.0046,0.0381,0.496
+Lloyd Banks,On Fire,0.0923,0.22,0.759
+Akon,Locked Up,0.023,0.101,0.818
+D12,My Band,0.497,0.0828,0.851
+Jay Sean,Eyes On You - Radio Mix,0.0775,0.0847,0.802
+Mario Winans,I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster,0.347,0.0462,0.833
+Destiny's Child,Lose My Breath,0.00727,0.0637,0.814
+Eric Prydz,Call on Me - Radio Mix,0.00427,0.375,0.597
+Ciara,Goodies (feat. Petey Pablo),0.0277,0.0491,0.826
+Kelis,Trick Me,0.0369,0.149,0.97
+LL Cool J,Headsprung,0.0114,0.0284,0.718
+Spiderbait,Black Betty - Edit,2.06e-05,0.0922,0.562
+George Michael,Amazing,0.0884,0.0394,0.805
+Britney Spears,My Prerogative,0.0127,0.118,0.749
+Nina Sky,Move Ya Body,0.0202,0.0432,0.87
+Baby Bash,Suga Suga,0.688,0.268,0.662
+Petey Pablo,Freek-A-Leek,0.0756,0.254,0.737
+JAY-Z,Dirt Off Your Shoulder,0.0319,0.318,0.779
+Juanes,La Camisa Negra,0.0838,0.0308,0.751
+Avril Lavigne,Nobody's Home,0.000516,0.0497,0.348
+Robbie Williams,Radio,0.00331,0.0349,0.607
+Black Eyed Peas,Hey Mama,0.104,0.232,0.86
+Ying Yang Twins,Salt Shaker,0.0509,0.128,0.884
+Enrique Iglesias,Not In Love - Radio Mix,0.0371,0.0395,0.762
+Kelis,Milkshake,0.00986,0.0439,0.881
+Linkin Park,Breaking the Habit,0.108,0.0303,0.579
+JoJo,Leave (Get Out) - Radio Edit,0.156,0.253,0.656
+Christina Milian,Dip It Low,0.0108,0.104,0.752
+Avant,Read Your Mind,0.291,0.0711,0.755
+Eminem,Just Lose It,0.0581,0.0467,0.94
+Sugababes,Too Lost In You,0.0485,0.0287,0.586
+Snoop Dogg,Drop It Like It's Hot,0.169,0.216,0.892
+Sean Paul,I'm Still in Love with You (feat. Sasha),0.102,0.172,0.765
+The Shapeshifters,Lola's Theme - Radio Edit,0.00083,0.0536,0.748
+D12,How Come,0.28,0.237,0.745
+Basement Jaxx,Good Luck,0.0649,0.162,0.571
+Kevin Lyttle,Turn Me On,0.0405,0.0361,0.677
+Chingy,One Call Away,0.0918,0.183,0.765
+T.I.,Bring Em Out,0.0298,0.257,0.759
+DJ Casper,Cha Cha Slide - Hardino Mix,0.0436,0.125,0.853
+Kylie Minogue,I Believe in You,0.00277,0.0704,0.548
+Twista,Overnight Celebrity,0.182,0.179,0.828
+N.E.R.D,She Wants To Move,0.00402,0.0786,0.766
+Britney Spears,Everytime,0.966,0.0337,0.398
+U2,Vertigo,0.000138,0.0613,0.416
+Franz Ferdinand,Take Me Out,0.000409,0.0377,0.277
+J-Kwon,Tipsy - Club Mix,0.0653,0.315,0.925
+G-Unit,Wanna Get To Know You,0.106,0.132,0.513
+Lil' Flip,Sunshine (feat. Lea),0.0248,0.0946,0.814
+Kanye West,Jesus Walks,0.614,0.323,0.637
+Evanescence,My Immortal,0.863,0.0356,0.19
+Nelly,My Place,0.0498,0.0423,0.6
+Lemar,If There's Any Justice,0.0128,0.0453,0.706
+No Doubt,It's My Life,0.00202,0.0282,0.612
+Avril Lavigne,Don't Tell Me,0.00462,0.0386,0.523
+Twista,Slow Jamz,0.314,0.171,0.559
+Green Day,American Idiot,2.64e-05,0.0639,0.38
+Kelis,Millionaire,0.0217,0.108,0.68
+Scissor Sisters,Comfortably Numb,0.237,0.0391,0.803
+Alicia Keys,Diary (feat. Tony! Toni! Tone! & Jermaine Paul),0.555,0.0317,0.663
+Kanye West,Through The Wire,0.00865,0.247,0.571
+Special D.,Come With Me - Radio Edit,0.13,0.0803,0.739
+Ludacris,Splash Waterfalls,0.101,0.409,0.734
+Avril Lavigne,My Happy Ending,0.00136,0.0758,0.414
+Dido,White Flag,0.327,0.0401,0.512
+Eamon,Fuck It (I Don't Want You Back),0.214,0.0653,0.828
+Beyoncé,"Me, Myself and I",0.226,0.0803,0.75
+3 Doors Down,Here Without You,0.0492,0.0252,0.557
+Kanye West,All Falls Down,0.149,0.484,0.657
+Twista,Sunshine (feat. Anthony Hamilton),0.261,0.294,0.926
+Katie Melua,The Closest Thing to Crazy,0.856,0.0312,0.562
+Usher,My Boo,0.257,0.118,0.662
+Lloyd,Southside,0.377,0.0818,0.688
+LMC,Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit,0.00232,0.038,0.668
+The Streets,Fit but You Know It,0.23,0.299,0.68
+JUVENILE,Slow Motion,0.548,0.325,0.713
+Outkast,The Way You Move (feat. Sleepy Brown),0.126,0.0464,0.871
+Girls Aloud,Love Machine,0.00127,0.0621,0.663
+Jessica Simpson,With You,0.0923,0.108,0.553
+Eminem,Like Toy Soldiers,0.0193,0.359,0.52
+Gary Jules,Mad World (Feat. Michael Andrews),0.976,0.0374,0.345
+Ashlee Simpson,Pieces Of Me,0.0572,0.0773,0.505
+Will Young,Leave Right Now,0.145,0.0368,0.641
+Alicia Keys,You Don't Know My Name,0.59,0.187,0.264
+Mariah Carey,We Belong Together,0.0264,0.0629,0.84
+Mario,Let Me Love You,0.235,0.0922,0.656
+Kanye West,Gold Digger,0.0195,0.348,0.629
+Rihanna,Pon de Replay,0.000155,0.159,0.779
+50 Cent,Candy Shop,0.0253,0.466,0.614
+James Blunt,You're Beautiful,0.633,0.0278,0.675
+Green Day,Boulevard of Broken Dreams,0.00394,0.0309,0.49
+The Pussycat Dolls,Don't Cha,0.00542,0.099,0.875
+Daniel Powter,Bad Day,0.448,0.0309,0.599
+Akon,Bananza (Belly Dancer),0.0345,0.132,0.878
+Madonna,Hung Up,0.0039,0.0452,0.649
+50 Cent,Just A Lil Bit,0.0322,0.41,0.489
+Crazy Frog,Axel F,0.279,0.0407,0.86
+Eminem,Ass Like That,0.409,0.366,0.646
+Sean Paul,We Be Burnin',0.145,0.151,0.95
+Gwen Stefani,Rich Girl,0.0294,0.0416,0.856
+The Chemical Brothers,Galvanize,0.0141,0.0751,0.745
+Fort Minor,Remember the Name (feat. Styles of Beyond),0.0583,0.0911,0.688
+50 Cent,Disco Inferno,0.206,0.231,0.925
+The Game,How We Do,0.0455,0.251,0.862
+Chris Brown,Run It! (feat. Juelz Santana),0.0246,0.129,0.846
+Mariah Carey,It's Like That,0.0901,0.0514,0.8
+Black Eyed Peas,My Humps,0.111,0.222,0.802
+Ciara,Oh (feat. Ludacris),0.000298,0.0506,0.8
+50 Cent,Outta Control - Remix,0.0277,0.246,0.772
+Baby Bash,"Baby, I'm Back",0.0508,0.105,0.899
+Jennifer Lopez,Get Right,0.0218,0.12,0.741
+JAY-Z,Numb / Encore,0.0603,0.166,0.687
+The Game,Hate It Or Love It,0.14,0.207,0.802
+Gorillaz,Feel Good Inc.,0.00836,0.177,0.818
+Black Eyed Peas,Don't Phunk With My Heart,0.00937,0.061,0.69
+Akon,Lonely,0.331,0.0352,0.629
+Bodyrockers,I Like The Way - Radio Edit,0.0248,0.0431,0.642
+Sugababes,Push The Button,0.0485,0.061,0.962
+Jeezy,Soul Survivor,0.000839,0.0459,0.684
+Eminem,Mockingbird,0.209,0.266,0.637
+Shakira,La Tortura (feat. Alejandro Sanz),0.0297,0.0427,0.74
+Gorillaz,DARE,0.0229,0.0372,0.76
+Snoop Dogg,Signs,0.0319,0.127,0.94
+Robbie Williams,Tripping,0.0381,0.0429,0.666
+David Banner,Play,0.000213,0.126,0.837
+Trillville,Some Cut,0.00341,0.372,0.9
+D4L,Laffy Taffy,0.0351,0.428,0.891
+Missy Elliott,Lose Control (feat. Ciara & Fat Man Scoop),0.0311,0.121,0.904
+Rob Thomas,Lonely No More,0.033,0.109,0.551
+Brian McFadden,Almost Here,0.409,0.0336,0.561
+Bobby V.,"Slow Down - 12"" Version",0.179,0.103,0.568
+Backstreet Boys,Incomplete,0.231,0.0331,0.437
+Pretty Ricky,Grind With Me,0.000204,0.045,0.7
+Kanye West,Diamonds From Sierra Leone - Remix,0.258,0.27,0.672
+Snoop Dogg,Drop It Like It's Hot,0.169,0.216,0.892
+Fat Joe,Get It Poppin' (feat. Nelly) - Radio Version,0.0628,0.372,0.905
+Destiny's Child,Soldier (feat. T.I. & Lil' Wayne),0.0444,0.361,0.878
+Ciara,"1, 2 Step (feat. Missy Elliott) - Main",0.0444,0.161,0.939
+Amerie,1 Thing,0.115,0.332,0.636
+Ludacris,Get Back,0.0594,0.263,0.555
+Franz Ferdinand,Do You Want To,0.0724,0.0448,0.412
+Natalie Imbruglia,Shiver,0.00115,0.0316,0.489
+Gwen Stefani,Hollaback Girl,0.35,0.0929,0.926
+Pretty Ricky,Your Body,0.176,0.113,0.838
+Thirty Seconds To Mars,The Kill,0.0014,0.0791,0.179
+Alicia Keys,Karma,0.0743,0.0615,0.727
+2Pac,Ghetto Gospel,0.0964,0.0467,0.794
+Craig David,Don't Love You No More (I'm Sorry),0.462,0.0245,0.636
+Katie Melua,Nine Million Bicycles,0.516,0.0322,0.534
+Lil Jon & The East Side Boyz,Lovers And Friends,0.0541,0.22,0.675
+Mariah Carey,Don't Forget About Us - Radio Edit,0.0422,0.0395,0.7
+Ying Yang Twins,Wait (The Whisper Song),0.00112,0.347,0.933
+Will Smith,Switch,0.0107,0.18,0.873
+Bow Wow,Like You (feat. Ciara),0.0465,0.0876,0.714
+Kaiser Chiefs,Everyday I Love You Less And Less,0.00466,0.0407,0.49
+Kelly Clarkson,Behind These Hazel Eyes,0.00165,0.0382,0.548
+Black Eyed Peas,Don't Lie,0.16,0.186,0.662
+Westlife,You Raise Me Up,0.631,0.0314,0.129
+Ray J,One Wish,0.278,0.28,0.525
+Papa Roach,Scars,0.0875,0.0494,0.455
+Arctic Monkeys,I Bet You Look Good On The Dancefloor,0.00225,0.0356,0.535
+Shayne Ward,That's My Goal,0.372,0.0336,0.286
+Bow Wow,Let Me Hold You (feat. Omarion),0.0915,0.199,0.815
+Kaiser Chiefs,I Predict A Riot,0.0243,0.0766,0.395
+Usher,Caught Up,0.027,0.0623,0.817
+Kelly Clarkson,Because of You,0.248,0.0313,0.587
+3 Doors Down,Let Me Go,0.0181,0.0387,0.478
+Nickelback,Photograph,0.000932,0.0292,0.515
+T-Pain,I'm Sprung,0.088,0.108,0.722
+Destiny's Child,Cater 2 U,0.286,0.197,0.605
+The Pussycat Dolls,Stickwitu,0.283,0.0587,0.548
+Ryan Cabrera,True,0.459,0.0241,0.598
+Stereophonics,Dakota,0.129,0.0675,0.506
+Eminem,Like Toy Soldiers,0.0193,0.359,0.52
+Nelly,Over And Over,0.0065,0.0803,0.644
+Coldplay,Speed of Sound,0.00488,0.0577,0.514
+KT Tunstall,Suddenly I See,0.225,0.0449,0.587
+Destiny's Child,Girl,0.31,0.105,0.567
+Kelly Clarkson,Since U Been Gone,0.00206,0.0322,0.662
+U2,Sometimes You Can't Make It On Your Own,0.00275,0.0247,0.53
+The All-American Rejects,Dirty Little Secret,0.000343,0.0432,0.469
+Toby Keith,As Good As I Once Was,0.266,0.0393,0.68
+Gwen Stefani,Cool,0.0322,0.0281,0.709
+Foo Fighters,Best of You,0.000769,0.0696,0.366
+Shakira,Hips Don't Lie (feat. Wyclef Jean),0.284,0.0707,0.778
+Sean Paul,Temperature,0.106,0.0685,0.951
+Justin Timberlake,SexyBack (feat. Timbaland),0.0584,0.0789,0.967
+Beyoncé,Irreplaceable,0.0293,0.382,0.447
+Amy Winehouse,Rehab,0.0541,0.0552,0.407
+Rihanna,SOS,0.004,0.0361,0.677
+Gnarls Barkley,Crazy,0.0505,0.0336,0.855
+Busta Rhymes,Touch It,0.0043,0.37,0.658
+Nelly Furtado,Maneater,0.0261,0.0397,0.796
+Bob Sinclar,Rock This Party - Everybody Dance Now,0.0714,0.122,0.893
+Diddy,Come to Me (feat. Nicole Scherzinger),0.0176,0.0756,0.819
+Madonna,Sorry,0.00121,0.046,0.589
+Chamillionaire,Ridin',0.189,0.0993,0.787
+Black Eyed Peas,Pump It,0.00937,0.181,0.648
+Nelly Furtado,Promiscuous,0.0569,0.0506,0.808
+Fedde Le Grand,Put Your Hands Up for Detroit - Radio Edit,0.0154,0.229,0.814
+Sean Paul,(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version,0.067,0.225,0.711
+The Pussycat Dolls,Buttons,0.152,0.27,0.565
+Ciara,Get Up (feat. Chamillionaire),0.0248,0.109,0.964
+Eminem,Shake That,0.0507,0.117,0.963
+Cherish,Do It To It,0.00798,0.169,0.826
+Muse,Supermassive Black Hole,0.0492,0.0439,0.668
+Chris Brown,Gimme That,0.00374,0.0466,0.678
+Infernal,From Paris to Berlin,0.096,0.0816,0.741
+Cassie,Me & U,0.352,0.0294,0.803
+E-40,U and Dat (feat. T. Pain & Kandi Girl),0.0241,0.277,0.858
+The Pussycat Dolls,Beep,0.00952,0.0434,0.938
+Lil Jon,Snap Yo Fingers,0.00647,0.23,0.835
+Armand Van Helden,My My My - Radio Edit,0.0195,0.137,0.678
+The Notorious B.I.G.,"Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",0.0949,0.141,0.833
+Yung Joc,It's Goin' Down (feat. Nitti),0.0986,0.0612,0.888
+Shayne Ward,No Promises,0.527,0.026,0.5
+Justin Timberlake,My Love (feat. T.I.),0.277,0.224,0.771
+Nickelback,Savin' Me,0.000731,0.0276,0.441
+Nelly,Grillz,0.0358,0.241,0.867
+Take That,Patience,0.142,0.0405,0.309
+Fergie,London Bridge,0.216,0.357,0.769
+Cascada,Everytime We Touch - Radio Edit,0.00461,0.0555,0.64
+D4L,Laffy Taffy,0.0351,0.428,0.891
+LL Cool J,Control Myself,0.00928,0.211,0.825
+Beyoncé,Deja Vu (feat. Jay-Z),0.0071,0.341,0.644
+P!nk,Stupid Girls,0.000738,0.071,0.683
+Eminem,When I'm Gone,0.0553,0.352,0.618
+Kelis,Bossy,0.000182,0.19,0.906
+Bob Sinclar,Love Generation - Radio Edit,0.175,0.062,0.715
+Meck,Thunder in My Heart Again (Radio Edit),0.000241,0.0294,0.679
+Mary J. Blige,Be Without You - Kendu Mix,0.0717,0.0998,0.726
+Girls Aloud,Something Kinda Ooooh,0.0232,0.0473,0.681
+Rihanna,Unfaithful,0.839,0.0334,0.588
+Kanye West,Touch The Sky,0.0114,0.342,0.552
+Dem Franchize Boyz,"Lean Wit It, Rock Wit It",0.082,0.307,0.886
+Evanescence,Call Me When You're Sober,0.00193,0.0524,0.45
+Chingy,Pullin' Me Back,0.0825,0.286,0.786
+Nickelback,Far Away,0.000681,0.0309,0.518
+Fall Out Boy,"Dance, Dance",0.00523,0.154,0.622
+Leona Lewis,A Moment Like This,0.423,0.0301,0.261
+T.I.,What You Know,0.0155,0.0344,0.551
+Ludacris,Money Maker,0.15,0.27,0.551
+Nick Lachey,What's Left Of Me,0.142,0.0375,0.42
+Jibbs,Chain Hang Low,0.0259,0.262,0.792
+Arctic Monkeys,When The Sun Goes Down,0.0341,0.199,0.348
+Rascal Flatts,Life is a Highway,0.00185,0.0613,0.561
+Beyoncé,Check On It (feat. Slim Thug),0.0805,0.218,0.7
+Keyshia Cole,Love,0.064,0.0283,0.688
+Lily Allen,Smile,0.00143,0.0259,0.632
+Ne-Yo,Sexy Love,0.297,0.0413,0.693
+JoJo,Too Little Too Late,0.0113,0.0431,0.535
+Mary J. Blige,One,0.0841,0.0777,0.344
+Bubba Sparxxx,Ms. New Booty,0.016,0.416,0.64
+Amy Winehouse,You Know I'm No Good,0.0132,0.0309,0.705
+Rascal Flatts,What Hurts The Most,0.0088,0.0277,0.537
+Red Hot Chili Peppers,Dani California,0.0193,0.0437,0.556
+Scissor Sisters,I Don't Feel Like Dancin',0.0195,0.0276,0.707
+Ne-Yo,So Sick,0.246,0.31,0.452
+Hinder,Lips Of An Angel,0.0208,0.0341,0.474
+The Raconteurs,"Steady, As She Goes",0.0132,0.12,0.525
+The Fratellis,Chelsea Dagger,0.0491,0.144,0.511
+Fort Minor,Where'd You Go (feat. Holly Brook & Jonah Matranga),0.262,0.238,0.684
+The Pussycat Dolls,Stickwitu,0.283,0.0587,0.548
+Panic! At The Disco,I Write Sins Not Tragedies,0.0737,0.14,0.566
+James Blunt,Goodbye My Lover,0.953,0.0512,0.432
+Christina Aguilera,Ain't No Other Man,0.00376,0.222,0.862
+Westlife,The Rose,0.784,0.0294,0.272
+Keane,Is It Any Wonder?,3.82e-05,0.0363,0.489
+Orson,No Tomorrow,0.0065,0.0691,0.656
+T-Pain,I'm N Luv (Wit a Stripper) (feat. Mike Jones),0.00544,0.0688,0.731
+KT Tunstall,Black Horse And The Cherry Tree,0.328,0.0641,0.748
+Natasha Bedingfield,Unwritten,0.00584,0.0399,0.706
+Razorlight,America,0.295,0.0305,0.447
+James Morrison,You Give Me Something,0.216,0.114,0.559
+Snow Patrol,You're All I Have,5.48e-05,0.045,0.467
+The Fray,How to Save a Life,0.269,0.0379,0.64
+Sandi Thom,I Wish I Was a Punk Rocker (with Flowers in My Hair),0.544,0.358,0.7
+My Chemical Romance,Welcome to the Black Parade,0.000289,0.0752,0.217
+Razorlight,In The Morning,0.00379,0.042,0.616
+The All-American Rejects,Dirty Little Secret,0.000343,0.0432,0.469
+James Morrison,Wonderful World,0.0548,0.029,0.474
+Chris Brown,Yo (Excuse Me Miss),0.119,0.272,0.536
+P!nk,Who Knew,0.00462,0.0274,0.688
+The Kooks,Naive,0.0759,0.0892,0.391
+Leona Lewis,Bleeding Love,0.188,0.0357,0.638
+Rihanna,Umbrella,0.00864,0.134,0.583
+Britney Spears,Gimme More,0.25,0.0334,0.788
+Fergie,Big Girls Don't Cry (Personal),0.205,0.0335,0.708
+Mark Ronson,Valerie (feat. Amy Winehouse) - Version Revisited,0.00253,0.0544,0.698
+Plain White T's,Hey There Delilah,0.872,0.0293,0.656
+Justin Timberlake,What Goes Around.../...Comes Around (Interlude),0.122,0.0709,0.687
+Gwen Stefani,The Sweet Escape,0.191,0.0343,0.756
+Timbaland,The Way I Are,0.181,0.1,0.731
+Nelly Furtado,Say It Right,0.0476,0.139,0.872
+Ida Corr,Let Me Think About It,0.00022,0.046,0.762
+Alex Gaudino,Destination Calabria - Radio Edit,0.0015,0.0425,0.627
+September,Cry for You,0.00133,0.0301,0.767
+Akon,Smack That,0.317,0.0475,0.94
+Timbaland,Give It To Me,0.168,0.0632,0.975
+50 Cent,Ayo Technology,0.0828,0.132,0.63
+Eric Prydz,Proper Education - Radio Edit,0.00102,0.0523,0.537
+Fedde Le Grand,Put Your Hands Up For Detroit - Radio Edit,0.0153,0.202,0.827
+Ciara,Like a Boy,0.267,0.145,0.701
+Kanye West,Stronger,0.00564,0.153,0.617
+Beyoncé,Beautiful Liar,0.00554,0.0703,0.764
+Gym Class Heroes,Cupid's Chokehold / Breakfast in America - Radio Mix,0.495,0.0781,0.584
+Akon,I Wanna Love You,0.0359,0.0417,0.865
+Soulja Boy,Crank That (Soulja Boy),0.515,0.0786,0.736
+Fat Joe,Make It Rain,0.0106,0.197,0.744
+P!nk,U + Ur Hand,0.00144,0.0528,0.709
+Rihanna,Shut Up And Drive,0.00101,0.0349,0.735
+Lloyd,Get It Shawty,0.123,0.241,0.822
+Kanye West,Can't Tell Me Nothing,0.0122,0.039,0.596
+Camille Jones,The Creeps - Fedde Le Grand Radio Mix,0.278,0.0603,0.847
+Linkin Park,What I've Done,0.0141,0.0324,0.623
+Keyshia Cole,Last Night,0.166,0.0623,0.918
+Chris Brown,Kiss Kiss (feat. T-Pain),0.0506,0.225,0.729
+Shop Boyz,Party Like A Rock Star,0.00541,0.0395,0.619
+Finger Eleven,Paralyzer,0.157,0.0456,0.644
+Justin Timberlake,Summer Love,0.0756,0.087,0.606
+MiMS,This Is Why I'm Hot,0.277,0.576,0.621
+Fabolous,Make Me Better,0.33,0.0995,0.607
+Seether,Fake It,0.00141,0.0518,0.611
+Take That,Patience,0.142,0.0405,0.309
+Arctic Monkeys,Brianstorm,8.15e-05,0.191,0.42
+Justin Timberlake,My Love (feat. T.I.),0.277,0.224,0.771
+Fergie,Glamorous,0.298,0.23,0.811
+Linkin Park,Bleed It Out,0.114,0.0508,0.529
+My Chemical Romance,Teenagers,0.0506,0.0632,0.463
+Calvin Harris,Acceptable in the 80's,0.0143,0.0511,0.787
+Sugababes,About You Now,6.52e-05,0.0378,0.584
+Avril Lavigne,Girlfriend,0.000722,0.102,0.56
+Ne-Yo,Because Of You,0.528,0.0356,0.81
+Daughtry,It's Not Over,0.0467,0.0538,0.45
+Unk,Walk It Out,0.0982,0.0813,0.794
+Lloyd,You,0.102,0.47,0.412
+Klaxons,Golden Skans,0.000418,0.0381,0.463
+T-Pain,Bartender (feat. Akon),0.0611,0.133,0.675
+Baby Boy Da Prince,The Way I Live - Main Explicit,0.0147,0.248,0.88
+Fergie,Fergalicious,0.0576,0.316,0.906
+Omarion,Ice Box,0.189,0.134,0.775
+Pretty Ricky,On the Hotline - Amended Version,0.0185,0.183,0.704
+Nickelback,Rockstar,0.0459,0.0386,0.616
+Fall Out Boy,Thnks fr th Mmrs,0.00511,0.0623,0.459
+Justin Timberlake,LoveStoned / I Think She Knows (Interlude),0.34,0.0549,0.859
+All Time Low,"Dear Maria, Count Me In",0.00725,0.0805,0.459
+Amy Winehouse,Back To Black,0.134,0.0373,0.403
+Keyshia Cole,Let It Go,0.197,0.213,0.808
+Ciara,Promise,0.409,0.0425,0.697
+Enrique Iglesias,Do You Know? (The Ping Pong Song),0.0523,0.0487,0.753
+T2,Heartbroken - Edit,0.0258,0.0329,0.716
+Robyn,With Every Heartbeat,0.00877,0.0395,0.477
+Maroon 5,Makes Me Wonder,0.00485,0.0357,0.803
+Fall Out Boy,"This Ain't A Scene, It's An Arms Race",0.000747,0.0636,0.435
+Paramore,Misery Business,0.00272,0.0735,0.517
+Hinder,Better Than Me,0.205,0.029,0.451
+Huey,"Pop, Lock & Drop It - Video Edit",0.00308,0.222,0.723
+Foo Fighters,The Pretender,0.000917,0.0431,0.433
+Plies,Shawty (feat. T Pain),0.0419,0.126,0.444
+Kaiser Chiefs,Ruby,0.00673,0.0512,0.451
+Mark Ronson,Stop Me (feat. Daniel Merriweather),0.00128,0.0403,0.626
+Bow Wow,Outta My System (feat. T-Pain & Johntá Austin),0.0917,0.183,0.772
+Jim Jones,We Fly High,0.0847,0.298,0.685
+The Red Jumpsuit Apparatus,Face Down,0.000665,0.0399,0.545
+MIKA,Grace Kelly,0.0242,0.0454,0.675
+Christina Aguilera,Candyman,0.0125,0.23,0.686
+Sean Kingston,Beautiful Girls,0.15,0.0687,0.762
+Akon,Don't Matter,0.225,0.0371,0.801
+James Blunt,1973,0.0652,0.0269,0.72
+Carrie Underwood,Before He Cheats,0.271,0.0405,0.519
+Just Jack,Starz In Their Eyes,0.00184,0.0652,0.67
+T-Pain,Buy U a Drank (Shawty Snappin') (feat. Yung Joc),0.0108,0.262,0.451
+Bone Thugs-N-Harmony,I Tried,0.0104,0.0742,0.727
+Avril Lavigne,When You're Gone,0.191,0.0323,0.457
+Rich Boy,Throw Some D's,0.0368,0.43,0.697
+MIKA,Love Today,0.0304,0.0664,0.673
+Manic Street Preachers,Your Love Alone Is Not Enough (feat. Nina Persson),0.00143,0.0459,0.344
+Elliott Yamin,Wait for You,0.25,0.0281,0.764
+Wyclef Jean,"Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",0.0772,0.0553,0.733
+Boys Like Girls,The Great Escape,0.00166,0.0635,0.423
+Take That,Rule The World - Radio Edit,0.0376,0.034,0.357
+J. Holiday,Bed,0.17,0.0504,0.684
+Red Hot Chili Peppers,Snow (Hey Oh),0.116,0.0499,0.427
+Ludacris,Runaway Love,0.329,0.283,0.405
+Flo Rida,Low (feat. T-Pain),0.0928,0.0791,0.918
+Katy Perry,I Kissed A Girl,0.00223,0.0677,0.699
+Rihanna,Take A Bow,0.248,0.0715,0.697
+Alicia Keys,No One,0.0209,0.0285,0.644
+Timbaland,Apologize,0.0292,0.0278,0.653
+Ne-Yo,Miss Independent,0.48,0.145,0.668
+Chris Brown,With You,0.134,0.0698,0.662
+Beyoncé,If I Were a Boy,0.107,0.0313,0.632
+Kardinal Offishall,Dangerous,0.00437,0.0756,0.949
+Madcon,Beggin (original version),0.0271,0.057,0.715
+September,Cry for You,0.00133,0.0301,0.767
+Rihanna,Disturbia,0.0863,0.0571,0.707
+Guru Josh Project,Infinity 2008,0.000337,0.0576,0.493
+Britney Spears,Break the Ice,0.689,0.0445,0.712
+Lil Wayne,Lollipop,0.056,0.0831,0.829
+Basshunter,Now You're Gone - Video Edit,0.0213,0.354,0.639
+Kanye West,Flashing Lights,0.0381,0.0399,0.639
+Madonna,4 Minutes (feat. Justin Timberlake & Timbaland),0.00994,0.0652,0.753
+Katy Perry,Hot N Cold,7.95e-05,0.0418,0.706
+Rihanna,Don't Stop The Music,0.0336,0.0643,0.835
+Snoop Dogg,Sensual Seduction,0.003,0.0682,0.756
+Akon,Right Now (Na Na Na),0.262,0.152,0.83
+Britney Spears,Womanizer,0.073,0.0622,0.724
+Eric Prydz,Pjanoo - Radio Edit,0.000563,0.0295,0.605
+Kelly Rowland,Work,0.00499,0.0538,0.888
+Jeezy,Put On,0.00342,0.0353,0.654
+Madonna,Give It 2 Me,0.0933,0.0414,0.837
+The Pussycat Dolls,When I Grow Up,0.00165,0.05,0.671
+will.i.am,Heartbreaker,0.0352,0.0732,0.788
+Soulja Boy,Crank That (Soulja Boy),0.515,0.0786,0.736
+Britney Spears,Piece of Me,0.0902,0.216,0.769
+T.I.,Live Your Life,0.071,0.255,0.375
+Ne-Yo,Closer,0.0225,0.0738,0.709
+Lil Wayne,A Milli,0.0387,0.278,0.674
+Colby O'Donis,What You Got,0.0327,0.038,0.775
+Miley Cyrus,See You Again,0.0149,0.177,0.692
+Basshunter,All I Ever Wanted - Radio Edit,0.164,0.0508,0.645
+Chris Brown,Kiss Kiss (feat. T-Pain),0.0506,0.225,0.729
+Finger Eleven,Paralyzer,0.157,0.0456,0.644
+Alesha Dixon,The Boy Does Nothing,0.121,0.121,0.632
+Dizzee Rascal,Dance Wiv Me - Radio Edit,0.0476,0.0451,0.878
+Gabriella Cilmi,Sweet About Me,0.0607,0.0288,0.671
+Jack White,Another Way to Die,0.0239,0.128,0.486
+Plies,Hypnotized (feat. Akon),0.16,0.0797,0.84
+The Pussycat Dolls,I Hate This Part,0.0659,0.0317,0.756
+Sean Kingston,Take You There,0.0182,0.0696,0.752
+Natasha Bedingfield,Pocketful of Sunshine,0.203,0.0391,0.726
+The Offspring,"You're Gonna Go Far, Kid",0.00428,0.0638,0.55
+Kanye West,Homecoming,0.337,0.189,0.667
+Estelle,American Boy,0.171,0.326,0.727
+Saving Abel,Addicted,0.000821,0.0338,0.512
+Pendulum,Propane Nightmares,0.000262,0.0825,0.356
+The Game,My Life,0.0724,0.349,0.673
+Danity Kane,Damaged,0.0912,0.05,0.774
+P!nk,So What,0.000334,0.0425,0.534
+Kanye West,Love Lockdown,0.0542,0.0323,0.76
+Gym Class Heroes,Cookie Jar (feat. The-Dream),0.0253,0.0282,0.687
+M.I.A.,Paper Planes,0.033,0.222,0.447
+3 Doors Down,It's Not My Time,0.00153,0.0602,0.529
+Kylie Minogue,Wow,0.151,0.202,0.654
+Mariah Carey,Touch My Body,0.0996,0.0502,0.715
+MGMT,Kids,0.00076,0.0719,0.451
+The Ting Tings,Shut Up and Let Me Go,0.0109,0.0581,0.852
+Lil Wayne,Got Money,0.00188,0.118,0.694
+Santana,Into the Night (feat. Chad Kroeger),0.0137,0.0331,0.595
+The-Dream,I Luv Your Girl,0.014,0.0341,0.723
+Wiley,Wearing My Rolex - Radio Edit,0.0468,0.135,0.876
+Usher,Love in This Club (feat. Young Jeezy),0.0572,0.0732,0.573
+Sam Sparro,Black & Gold - Radio Edit,0.00116,0.0763,0.383
+"H ""two"" O",What's It Gonna Be (feat. Platnum),0.0085,0.0341,0.733
+The Ting Tings,That's Not My Name,0.0451,0.0893,0.755
+Plies,"Bust It Baby, Pt. 2 (feat. Ne-Yo)",0.154,0.167,0.648
+James Morrison,Broken Strings,0.00967,0.029,0.57
+Leona Lewis,Run,0.428,0.0291,0.285
+Metro Station,Shake It,0.00221,0.0798,0.618
+T.I.,Whatever You Like,0.0161,0.0709,0.68
+Trey Songz,Can't Help but Wait,0.358,0.0737,0.699
+OneRepublic,Stop And Stare,0.0659,0.0332,0.492
+Alexandra Burke,Hallelujah,0.654,0.0291,0.177
+Mary J. Blige,Just Fine,0.0394,0.117,0.923
+Jordin Sparks,One Step At a Time,0.0825,0.0289,0.766
+Coldplay,Viva La Vida,0.0954,0.0287,0.486
+Kings of Leon,Sex on Fire,0.00172,0.054,0.542
+Kanye West,Good Life,0.00305,0.346,0.439
+Duffy,Mercy,0.266,0.0332,0.793
+David Archuleta,Crush,0.00836,0.0322,0.57
+J. Holiday,Suffocate - Superclean,0.64,0.361,0.458
+Gavin DeGraw,In Love With a Girl,0.0191,0.0438,0.438
+Jordin Sparks,Tattoo,0.431,0.0399,0.566
+Coldplay,Violet Hill,0.0614,0.0374,0.33
+Ray J,Sexy Can I feat. Yung Berg,0.299,0.325,0.575
+Jennifer Hudson,Spotlight,0.0448,0.051,0.707
+John Legend,Green Light (feat. André 3000),0.0912,0.119,0.622
+Jonas Brothers,Burnin' Up,0.0296,0.0817,0.667
+Lupe Fiasco,Superstar (feat. Matthew Santos),0.207,0.361,0.572
+Chris Brown,Forever,0.0368,0.0459,0.672
+Adele,Chasing Pavements,0.291,0.0255,0.614
+Leona Lewis,Better in Time,0.512,0.0506,0.584
+Fergie,Clumsy,0.191,0.131,0.731
+T-Pain,Can't Believe It (feat. Lil' Wayne),0.00179,0.049,0.648
+Black Eyed Peas,I Gotta Feeling,0.0873,0.0265,0.743
+Lady Gaga,Poker Face,0.118,0.0787,0.851
+Beyoncé,Halo,0.272,0.0628,0.508
+David Guetta,Sexy Bitch (feat. Akon),0.0771,0.0486,0.813
+Flo Rida,Right Round,0.009,0.0551,0.72
+Taylor Swift,Love Story,0.131,0.0311,0.617
+Pitbull,Hotel Room Service,0.00301,0.227,0.849
+Britney Spears,Circus,0.147,0.052,0.791
+Lady Gaga,LoveGame,0.00569,0.0523,0.894
+Skillet,Monster,0.0431,0.0741,0.64
+The Prodigy,Omen,0.000941,0.0441,0.545
+Black Eyed Peas,Meet Me Halfway,0.00474,0.0735,0.798
+Kanye West,Heartless,0.0515,0.136,0.79
+Kid Cudi,Day 'N' Nite (Nightmare),0.462,0.0653,0.88
+Lady Gaga,Just Dance,0.0264,0.0311,0.822
+Britney Spears,If U Seek Amy,0.0192,0.0339,0.717
+Pitbull,I Know You Want Me (Calle Ocho),0.0142,0.149,0.825
+Mariah Carey,Obsessed,0.0465,0.0625,0.742
+Beyoncé,Sweet Dreams,0.0895,0.111,0.694
+Agnes,Release Me,0.00645,0.0321,0.621
+Black Eyed Peas,Boom Boom Pow,0.13,0.0663,0.867
+Shakira,She Wolf,0.285,0.0443,0.865
+Lady Gaga,Paparazzi,0.113,0.0438,0.762
+JAY-Z,Empire State Of Mind,0.0295,0.392,0.491
+OneRepublic,All The Right Moves,0.258,0.0474,0.529
+Jeremih,Birthday Sex,0.295,0.0439,0.677
+Cascada,Evacuate The Dancefloor,0.0167,0.0432,0.762
+Linkin Park,New Divide,0.000235,0.0362,0.493
+Kevin Rudolf,Let It Rock,0.000683,0.0397,0.607
+JAY-Z,Run This Town,0.281,0.29,0.632
+Lady Gaga,Bad Romance,0.00314,0.0363,0.696
+T.I.,Live Your Life,0.071,0.255,0.375
+Eminem,We Made You,0.107,0.0792,0.924
+Dizzee Rascal,Bonkers,0.00615,0.22,0.624
+Ciara,Love Sex Magic (feat. Justin Timberlake),0.0206,0.138,0.893
+Rihanna,Russian Roulette,0.046,0.0447,0.48
+Soulja Boy,Turn My Swag On,0.000969,0.0269,0.546
+The xx,Intro,0.459,0.027,0.617
+Jay Sean,Down,0.0108,0.0321,0.657
+Keri Hilson,Turnin Me On - Original Dirty,0.00293,0.061,0.661
+David Guetta,When Love Takes Over (feat. Kelly Rowland),0.0165,0.0253,0.675
+Cheryl,Fight For This Love,0.013,0.0912,0.739
+Soulja Boy,Kiss Me Thru The Phone,0.0185,0.112,0.758
+Eminem,Crack A Bottle,0.0864,0.186,0.516
+P!nk,Sober,0.0653,0.0299,0.614
+Tinchy Stryder,Number 1,0.0105,0.0377,0.581
+Pixie Lott,"Mama Do (Uh Oh, Uh Oh)",0.171,0.19,0.451
+JLS,Beat Again - Radio Edit,0.0355,0.0712,0.894
+3OH!3,DONTTRUSTME,0.0163,0.254,0.791
+A.R. Rahman,Jai Ho! (You Are My Destiny),0.0476,0.061,0.657
+The Pussycat Dolls,I Hate This Part,0.0659,0.0317,0.756
+Akon,Beautiful,0.123,0.0889,0.74
+Alexandra Burke,Bad Boys (feat. Flo Rida),0.0115,0.0538,0.67
+Mario,Break Up,0.428,0.363,0.44
+Drake,Forever,0.249,0.342,0.457
+Selena Gomez & The Scene,Naturally,0.0185,0.0511,0.605
+Kanye West,Love Lockdown,0.0542,0.0323,0.76
+The Veronicas,Untouched,0.0171,0.234,0.557
+Fabolous,Throw It In The Bag,0.174,0.0473,0.789
+Jason Derulo,Whatcha Say,0.0444,0.0779,0.615
+Lily Allen,Not Fair,0.0447,0.0402,0.719
+T.I.,Dead And Gone,0.0402,0.259,0.713
+Sean Kingston,Fire Burning,0.0192,0.0329,0.839
+Empire of the Sun,Walking On A Dream,0.257,0.0458,0.871
+Cobra Starship,Good Girls Go Bad (feat. Leighton Meester),0.0116,0.0815,0.594
+Nickelback,If Today Was Your Last Day,8.67e-05,0.0355,0.485
+La Roux,Bulletproof,0.000441,0.0477,0.674
+Kasabian,Fire,0.0874,0.0311,0.525
+Calvin Harris,I'm Not Alone - Radio Edit,0.00481,0.0321,0.597
+Justin Bieber,One Time,0.0631,0.0372,0.691
+Jamie Foxx,Blame It,0.0782,0.103,0.673
+La Roux,In For The Kill,0.00184,0.0455,0.629
+Muse,Uprising,0.000202,0.0775,0.602
+Nickelback,Gotta Be Somebody,0.000354,0.0601,0.536
+James Morrison,Broken Strings,0.00967,0.029,0.57
+T.I.,Whatever You Like,0.0161,0.0709,0.68
+Dizzee Rascal,Holiday,0.0571,0.0448,0.545
+Beyoncé,Single Ladies (Put a Ring on It),0.0383,0.296,0.426
+Boys Like Girls,Love Drunk,0.00177,0.141,0.44
+The-Dream,Rockin' That Shit,0.123,0.0422,0.672
+OneRepublic,Secrets,0.0717,0.0366,0.516
+JLS,Everybody in Love,0.0703,0.0327,0.705
+Jason Aldean,Big Green Tractor,0.654,0.0289,0.616
+The Fray,Never Say Never,0.568,0.0317,0.23
+Lily Allen,The Fear,0.419,0.0404,0.661
+Kings of Leon,Sex on Fire,0.00172,0.054,0.542
+Drake,Best I Ever Had,0.0951,0.33,0.431
+Kelly Clarkson,Already Gone,0.217,0.0757,0.209
+Miley Cyrus,Party In The U.S.A.,0.00112,0.042,0.652
+Jordin Sparks,Battlefield,0.0178,0.0339,0.613
+Ne-Yo,Mad,0.665,0.0343,0.731
+Green Day,21 Guns,0.0518,0.0355,0.268
+Keri Hilson,Knock You Down,0.00952,0.16,0.588
+Taylor Swift,You Belong With Me,0.164,0.0384,0.687
+Shinedown,Second Chance,0.00107,0.0333,0.46
+Asher Roth,I Love College,0.0897,0.243,0.713
+Katy Perry,Waking Up In Vegas,0.0012,0.0346,0.524
+Kelly Clarkson,My Life Would Suck Without You,0.0014,0.0509,0.526
+Mumford & Sons,Little Lion Man,0.0275,0.0272,0.517
+The Fray,You Found Me,0.0187,0.0413,0.338
+Bruno Mars,Just the Way You Are,0.0134,0.0422,0.635
+Eminem,Love The Way You Lie,0.241,0.227,0.749
+Lady Gaga,Bad Romance,0.00314,0.0363,0.696
+Stromae,Alors on danse - Radio Edit,0.0994,0.0793,0.791
+Kesha,TiK ToK,0.0991,0.142,0.755
+David Guetta,Memories (feat. Kid Cudi),0.00144,0.255,0.546
+Taio Cruz,Dynamite,0.00379,0.0859,0.751
+Rihanna,Only Girl (In The World),0.129,0.0432,0.789
+Katy Perry,California Gurls,0.00446,0.0569,0.791
+Kesha,Take It Off,4.14e-05,0.0286,0.729
+INNA,Hot - Play & Win Radio Version,0.0798,0.28,0.817
+Far East Movement,Like A G6,0.00676,0.449,0.435
+David Guetta,Gettin' Over You (feat. Fergie & LMFAO),0.178,0.0816,0.615
+Duck Sauce,Barbra Streisand - Radio Edit,0.000939,0.108,0.769
+Lucenzo,Danza Kuduro (feat. Don Omar),0.00713,0.112,0.622
+Rihanna,Te Amo,0.541,0.0818,0.567
+Timbaland,Carry Out (Featuring Justin Timberlake),0.114,0.113,0.531
+DJ Fresh,Gold Dust - Radio Edit,0.255,0.147,0.451
+Edward Maya,Stereo Love - Radio Edit,0.0346,0.0322,0.799
+Taio Cruz,Break Your Heart,0.0327,0.0314,0.607
+Black Eyed Peas,Imma Be,0.179,0.365,0.597
+Sidney Samson,Riverside,0.00023,0.0445,0.804
+Eminem,Not Afraid,0.529,0.264,0.855
+Lady Gaga,Alejandro,0.000397,0.0462,0.623
+Rihanna,Rude Boy,0.113,0.127,0.563
+Ne-Yo,Beautiful Monster,0.209,0.131,0.708
+3OH!3,Starstrukk,0.00153,0.0712,0.605
+Black Eyed Peas,The Time (Dirty Bit),0.0662,0.0664,0.816
+Kelly Rowland,Commander,0.0173,0.138,0.395
+Swedish House Mafia,One (Your Name) - Radio Edit,0.0132,0.0333,0.733
+Chris Brown,Deuces (feat. Tyga & Kevin McCall),0.0324,0.11,0.692
+Usher,DJ Got Us Fallin' In Love (feat. Pitbull),0.0338,0.109,0.663
+Iyaz,Replay,0.173,0.0708,0.706
+Flo Rida,Club Can't Handle Me (feat. David Guetta),0.0283,0.0327,0.616
+Sean Kingston,Eenie Meenie,0.0543,0.0322,0.72
+Waka Flocka Flame,No Hands (feat. Roscoe Dash & Wale),0.00544,0.0391,0.76
+Tinie Tempah,Written in the Stars (feat. Eric Turner),0.0613,0.0981,0.656
+Bruno Mars,Talking to the Moon,0.511,0.032,0.498
+Miley Cyrus,Can't Be Tamed,0.0287,0.144,0.63
+Mike Posner,Cooler Than Me - Single Mix,0.179,0.0474,0.768
+Lady Gaga,Telephone,0.00521,0.0404,0.824
+Yolanda Be Cool,We No Speak Americano (JT Radio Edit),0.0712,0.0464,0.901
+Rihanna,Hard,0.0121,0.111,0.31
+Tinie Tempah,Pass Out,0.0281,0.296,0.693
+Adam Lambert,Whataya Want from Me,0.0055,0.0429,0.438
+Trey Songz,Bottoms Up (feat. Nicki Minaj),0.0205,0.161,0.845
+Timbaland,If We Ever Meet Again (Featuring Katy Perry),0.00481,0.0393,0.652
+Enrique Iglesias,I Like It,0.021,0.0878,0.648
+Tim Berg,Seek Bromance - Avicii’s Vocal Edit,0.0868,0.0401,0.515
+Usher,OMG (feat. will.i.am),0.198,0.0332,0.781
+Maroon 5,Misery,0.000315,0.0424,0.703
+Jay Sean,Down,0.0108,0.0321,0.657
+Rihanna,Man Down,0.0436,0.177,0.47
+3OH!3,My First Kiss (feat. Ke$ha),0.00564,0.0804,0.682
+Justin Bieber,Baby,0.0401,0.137,0.728
+Cali Swag District,Teach Me How to Dougie,0.2,0.141,0.846
+Swedish House Mafia,Miami 2 Ibiza - Swedish House Mafia vs. Tinie Tempah,0.00237,0.0674,0.736
+K'NAAN,Wavin' Flag,0.13,0.0729,0.625
+Ludacris,How Low,0.00248,0.0533,0.785
+Kesha,Blah Blah Blah (feat. 3OH!3),0.0843,0.115,0.752
+DJ Khaled,"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",0.014,0.189,0.544
+Jason Derulo,In My Head,0.0266,0.033,0.762
+Aloe Blacc,I Need A Dollar,0.202,0.0333,0.84
+B.o.B,Airplanes (feat. Hayley Williams of Paramore),0.11,0.116,0.66
+Ludacris,My Chick Bad,0.172,0.378,0.624
+Nelly,Just A Dream,0.0421,0.0305,0.531
+Rihanna,What's My Name?,0.23,0.069,0.692
+Shontelle,Impossible,0.385,0.0343,0.599
+Take That,The Flood,0.0378,0.044,0.514
+Trey Songz,Say Aah (feat. Fabolous),0.00453,0.113,0.724
+Jason Derulo,Whatcha Say,0.0444,0.0779,0.615
+Drake,Over,0.0109,0.279,0.325
+Example,Kickstarts,0.00374,0.0573,0.61
+Plan B,She Said,0.301,0.141,0.72
+The Saturdays,Higher,0.049,0.0341,0.639
+Jay Sean,Do You Remember,0.0242,0.0644,0.855
+Usher,Hey Daddy (Daddy's Home),0.000176,0.0286,0.59
+Lil Wayne,Right Above It,0.0435,0.356,0.376
+The Wanted,All Time Low,0.352,0.0563,0.689
+Kesha,Your Love Is My Drug,0.00681,0.0982,0.826
+Ellie Goulding,Starry Eyed,0.135,0.0389,0.504
+Drake,Find Your Love,0.0209,0.173,0.625
+Jason Derulo,Ridin' Solo,0.128,0.146,0.442
+Two Door Cinema Club,What You Know,0.000665,0.0407,0.55
+JAY-Z,Young Forever,0.417,0.0693,0.637
+Young Money,BedRock,0.102,0.295,0.733
+B.o.B,Nothin' on You (feat. Bruno Mars),0.386,0.0493,0.688
+Katy Perry,Teenage Dream,0.0162,0.0361,0.719
+Scouting For Girls,This Ain't a Love Song,0.000431,0.0451,0.458
+Travie McCoy,Billionaire (feat. Bruno Mars),0.297,0.258,0.633
+Owl City,Fireflies,0.0275,0.0439,0.512
+Alicia Keys,Empire State of Mind (Part II) Broken Down,0.74,0.0341,0.484
+Lady A,Need You Now,0.0298,0.0318,0.581
+Taylor Swift,Back To December,0.117,0.0303,0.529
+Neon Trees,Animal,0.00034,0.0437,0.482
+Kris Allen,Live Like We're Dying,0.0273,0.0397,0.589
+Matt Cardle,When We Collide,0.0198,0.0343,0.443
+Robyn,Dancing On My Own,0.0743,0.0349,0.687
+The Band Perry,If I Die Young,0.348,0.0277,0.606
+B.o.B,Magic (feat. Rivers Cuomo),0.0127,0.343,0.549
+Adele,Rolling in the Deep,0.138,0.0298,0.73
+Maroon 5,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",0.0117,0.0475,0.722
+LMFAO,Party Rock Anthem,0.0206,0.156,0.751
+Katy Perry,Firework,0.141,0.049,0.638
+Bruno Mars,Grenade,0.148,0.0542,0.704
+Pitbull,Hey Baby (Drop It to the Floor) (feat. T-Pain),0.0434,0.0884,0.595
+Alexandra Stan,Mr. Saxobeat,0.0218,0.0468,0.726
+David Guetta,Who's That Chick? (feat. Rihanna),0.00377,0.116,0.675
+Jennifer Lopez,On The Floor,0.105,0.0496,0.73
+Rihanna,S&M,0.0113,0.042,0.767
+Kesha,Blow,0.00334,0.0392,0.753
+Snoop Dogg,Sweat - Remix,0.0597,0.03,0.813
+Taio Cruz,Higher,0.0048,0.0721,0.672
+Usher,More - RedOne Jimmy Joker Remix,0.00166,0.0543,0.551
+Example,Changed the Way You Kiss Me - Radio Edit,0.00548,0.041,0.578
+Black Eyed Peas,Just Can’t Get Enough,0.186,0.179,0.659
+David Guetta,Where Them Girls At (feat. Nicki Minaj & Flo Rida),0.055,0.0414,0.666
+Lykke Li,I Follow Rivers - The Magician Remix,0.0192,0.0395,0.786
+Pitbull,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",0.191,0.161,0.671
+Selena Gomez & The Scene,Love You Like A Love Song,0.0761,0.0469,0.858
+Wiz Khalifa,Black and Yellow,0.0646,0.0675,0.684
+Katy Perry,E.T.,0.0181,0.175,0.62
+Britney Spears,I Wanna Go,0.00379,0.0414,0.696
+Gym Class Heroes,Stereo Hearts (feat. Adam Levine),0.0319,0.0976,0.646
+Edward Maya,Stereo Love - Radio Edit,0.0346,0.0322,0.799
+Enrique Iglesias,Tonight (I'm Fuckin' You),0.0294,0.0523,0.648
+Jeremih,Down On Me,0.0369,0.114,0.7
+Sak Noel,Loca People - Radio Edit,0.000915,0.0599,0.926
+Olly Murs,Heart Skips a Beat (feat. Rizzle Kicks),0.14,0.0581,0.843
+LMFAO,Sexy And I Know It,0.1,0.316,0.707
+Cobra Starship,You Make Me Feel... (feat. Sabi),0.0191,0.0535,0.668
+Jessie J,Do It Like A Dude,0.0491,0.049,0.663
+DJ Fresh,Louder (feat. Sian Evans) - Radio Edit,0.0184,0.0464,0.31
+Waka Flocka Flame,No Hands (feat. Roscoe Dash & Wale),0.00544,0.0391,0.76
+Nickelback,When We Stand Together,0.000102,0.0489,0.446
+M83,Midnight City,0.0182,0.0393,0.507
+Britney Spears,Till the World Ends,0.0228,0.0665,0.693
+Labrinth,Earthquake (feat. Tinie Tempah),0.109,0.1,0.54
+Jason Derulo,Don't Wanna Go Home,0.02,0.0652,0.671
+Coldplay,Paradise,0.0509,0.0268,0.449
+Katy Perry,Last Friday Night (T.G.I.F.),0.00125,0.0415,0.649
+Adele,Set Fire to the Rain,0.00408,0.0249,0.603
+Dr. Dre,I Need A Doctor,0.0869,0.452,0.594
+Lil Wayne,6 Foot 7 Foot,0.0007,0.304,0.364
+DJ Khaled,I'm On One,0.0536,0.318,0.413
+Chris Brown,Look At Me Now (feat. Lil' Wayne & Busta Rhymes),0.0339,0.184,0.767
+Far East Movement,Rocketeer,0.181,0.0461,0.664
+The Wanted,Glad You Came,0.0319,0.0639,0.722
+Kesha,We R Who We R,0.00987,0.0407,0.736
+Kelly Rowland,Motivation,0.187,0.0418,0.744
+Rihanna,We Found Love,0.025,0.0383,0.735
+Nicole Scherzinger,Don't Hold Your Breath,0.00646,0.0262,0.66
+Mann,Buzzin Remix,0.0887,0.146,0.687
+Chris Brown,Yeah 3x,0.000369,0.0445,0.705
+Swedish House Mafia,Save The World,0.0144,0.0474,0.507
+Kanye West,All Of The Lights,0.0796,0.0717,0.531
+Miguel,Sure Thing,0.0267,0.1,0.684
+Diddy - Dirty Money,Coming Home,0.158,0.193,0.392
+Rihanna,What's My Name?,0.23,0.069,0.692
+Chris Brown,Beautiful People,0.0658,0.161,0.415
+Avril Lavigne,What the Hell,0.00472,0.0548,0.578
+Professor Green,Read All About It,0.336,0.0434,0.656
+Chase & Status,Blind Faith,0.00523,0.0472,0.45
+Chip,Champion (feat. Chris Brown),0.078,0.24,0.415
+Selena Gomez & The Scene,Who Says,0.0843,0.0479,0.682
+Rizzle Kicks,Down With The Trumpets,0.087,0.0806,0.753
+Lady Gaga,Born This Way,0.00327,0.161,0.587
+Nicki Minaj,Super Bass,0.269,0.209,0.72
+Mac Miller,Donald Trump,0.119,0.118,0.636
+Calvin Harris,Bounce (feat. Kelis) - Radio Edit,0.0334,0.0399,0.779
+David Guetta,Without You (feat. Usher),0.227,0.0285,0.608
+Foster The People,Pumped Up Kicks,0.145,0.0292,0.733
+Drake,Headlines,0.365,0.106,0.636
+Jessie J,Price Tag,0.0294,0.182,0.636
+Jason Aldean,Dirt Road Anthem,0.32,0.0352,0.678
+Wiz Khalifa,Roll Up,0.0524,0.192,0.523
+OneRepublic,Good Life,0.0771,0.052,0.634
+Bad Meets Evil,Lighters,0.352,0.245,0.676
+Bruno Mars,The Lazy Song,0.3,0.0699,0.794
+Lupe Fiasco,The Show Goes On,0.0189,0.115,0.591
+James Morrison,I Won't Let You Go,0.229,0.0304,0.537
+Jason Derulo,It Girl,0.0165,0.0605,0.668
+Adele,Someone Like You,0.893,0.028,0.554
+Red Hot Chili Peppers,The Adventures of Rain Dance Maggie,0.00112,0.029,0.683
+Keri Hilson,Pretty Girl Rock,0.203,0.246,0.666
+P!nk,F**kin' Perfect,0.0422,0.0373,0.563
+Blake Shelton,Honey Bee,0.00167,0.0385,0.481
+Lady Gaga,The Edge Of Glory,0.000323,0.041,0.583
+Lady A,Just A Kiss,0.446,0.0307,0.593
+Hot Chelle Rae,Tonight Tonight,0.0764,0.119,0.686
+Grouplove,Tongue Tied,0.00847,0.0439,0.56
+Coldplay,Every Teardrop Is a Waterfall,0.00194,0.0396,0.425
+Beyoncé,Best Thing I Never Had,0.143,0.0324,0.545
+P!nk,Raise Your Glass,0.0048,0.0838,0.7
+Christina Perri,Jar of Hearts,0.726,0.0316,0.349
+Bruno Mars,Marry You,0.332,0.0367,0.621
+The Band Perry,If I Die Young,0.348,0.0277,0.606
+Lil Wayne,How To Love,0.000177,0.0418,0.644
+Charlene Soraia,Wherever You Will Go,0.82,0.0334,0.597
+Christina Perri,A Thousand Years,0.309,0.0267,0.421
+Rihanna,We Found Love,0.025,0.0383,0.735
+Carly Rae Jepsen,Call Me Maybe,0.0114,0.0408,0.783
+fun.,We Are Young (feat. Janelle Monáe),0.02,0.075,0.378
+Sean Paul,She Doesn't Mind,0.000624,0.0693,0.718
+Pitbull,International Love (feat. Chris Brown),0.0124,0.0499,0.67
+DEV,In The Dark,0.00358,0.0672,0.736
+Adele,Skyfall,0.417,0.0282,0.346
+David Guetta,Turn Me On (feat. Nicki Minaj),0.0488,0.0591,0.704
+Rihanna,Where Have You Been,0.00201,0.0916,0.719
+JAY-Z,Ni**as In Paris,0.127,0.311,0.789
+Maroon 5,One More Night,0.0558,0.0314,0.716
+Skrillex,Bangarang (feat. Sirah),0.0145,0.196,0.716
+The Wanted,Chasing The Sun,0.244,0.0965,0.637
+Flo Rida,Whistle,0.0208,0.0453,0.747
+will.i.am,This Is Love,0.00473,0.0445,0.535
+David Guetta,She Wolf (Falling to Pieces) [feat. Sia],0.0841,0.0655,0.492
+Nicki Minaj,Pound The Alarm,0.0403,0.0609,0.728
+Kendrick Lamar,Swimming Pools (Drank) - Extended Version,0.123,0.404,0.716
+MARINA,Primadonna,0.0884,0.0337,0.66
+Kanye West,Mercy,0.0685,0.406,0.563
+DJ Fresh,Hot Right Now (feat. RITA ORA) - Radio Edit,0.00656,0.0431,0.524
+LMFAO,Sexy And I Know It,0.1,0.316,0.707
+PSY,Gangnam Style (강남스타일),0.00417,0.286,0.727
+Kesha,Die Young,0.00498,0.046,0.711
+Usher,Scream,0.00117,0.0973,0.616
+Olly Murs,Troublemaker (feat. Flo Rida),0.015,0.0565,0.762
+Linkin Park,BURN IT DOWN,0.0143,0.0534,0.585
+Bruno Mars,Locked out of Heaven,0.049,0.0431,0.726
+Avicii,Levels - Radio Edit,0.0462,0.0343,0.584
+Flo Rida,Good Feeling,0.0588,0.0688,0.706
+Rihanna,Diamonds,0.00125,0.0461,0.564
+Wiz Khalifa,"Work Hard, Play Hard",0.0409,0.0485,0.787
+Katy Perry,Part Of Me,0.000417,0.0355,0.678
+Nicki Minaj,Starships,0.135,0.075,0.747
+Kendrick Lamar,m.A.A.d city,0.0538,0.271,0.487
+Asaf Avidan & the Mojos,One Day / Reckoning Song (Wankelmut Remix) [Radio Edit],0.187,0.0547,0.821
+Florence + The Machine,Spectrum (Say My Name) - Calvin Harris Remix,0.00225,0.0482,0.578
+Azealia Banks,212,0.0145,0.258,0.847
+Maroon 5,Payphone,0.0188,0.0414,0.743
+James Arthur,Impossible,0.135,0.0933,0.376
+Michel Teló,Ai Se Eu Te Pego - Live,0.357,0.0692,0.676
+Otto Knows,Million Voices - Radio Edit,0.0022,0.041,0.582
+Icona Pop,I Love It,0.00828,0.0296,0.71
+Tyga,Rack City,0.0373,0.371,0.929
+Calvin Harris,Feel So Close - Radio Edit,0.000972,0.031,0.707
+Jennifer Lopez,Dance Again,0.0158,0.0696,0.797
+Grimes,Oblivion,0.115,0.0338,0.697
+Adele,Rumour Has It,0.617,0.0445,0.612
+Coldplay,Paradise,0.0509,0.0268,0.449
+Chris Brown,Turn Up the Music,0.000238,0.102,0.594
+Frank Ocean,Lost,0.0272,0.226,0.913
+Calvin Harris,Let's Go (feat. Ne-Yo),0.00777,0.0595,0.71
+The Script,Hall of Fame (feat. will.i.am),0.0654,0.0564,0.421
+Swedish House Mafia,Don't You Worry Child - Radio Edit,0.112,0.0509,0.612
+MARINA,How to Be a Heartbreaker,0.0142,0.0506,0.69
+Justin Bieber,Boyfriend,0.0358,0.0519,0.717
+David Guetta,Titanium (feat. Sia),0.0679,0.103,0.604
+Jessie J,Domino,0.0117,0.034,0.758
+Taylor Swift,I Knew You Were Trouble.,0.00454,0.0363,0.622
+ScHoolboy Q,Hands on the Wheel (feat. Asap Rocky),0.0166,0.108,0.646
+P!nk,Try,0.00144,0.03,0.674
+Robbie Williams,Candy,0.0368,0.0414,0.715
+Snoop Dogg,"Young, Wild & Free (feat. Bruno Mars)",0.0525,0.137,0.715
+Justin Bieber,As Long As You Love Me,0.0811,0.1,0.571
+Rita Ora,R.I.P. (feat. Tinie Tempah),0.027,0.0479,0.603
+Alex Clare,Too Close,0.00948,0.0387,0.588
+Tyga,Faded,0.0103,0.188,0.831
+Alesso,Years - ラジオ・エディット,0.00234,0.0805,0.37
+Guy Sebastian,Battle Scars (feat. Lupe Fiasco),0.186,0.206,0.61
+Katy Perry,The One That Got Away,0.000802,0.0353,0.687
+Avicii,Silhouettes - Original Radio Edit,0.155,0.0545,0.605
+Gotye,Somebody That I Used To Know,0.607,0.0358,0.863
+Flo Rida,Wild Ones (feat. Sia),0.0991,0.0554,0.608
+One Direction,What Makes You Beautiful,0.009,0.0737,0.726
+Lana Del Rey,Born To Die,0.209,0.0439,0.18
+Kesha,C'Mon,0.00657,0.0963,0.558
+Owl City,Good Time,0.0239,0.14,0.56
+Calvin Harris,We'll Be Coming Back (feat. Example),0.00131,0.0873,0.596
+Emeli Sandé,"Read All About It, Pt. III",0.822,0.0249,0.63
+Ellie Goulding,Lights - Single Version,0.0297,0.0367,0.682
+Train,Drive By,0.00107,0.032,0.765
+Disclosure,Latch,0.0159,0.167,0.503
+Coldplay,Princess of China,0.00385,0.0347,0.42
+One Direction,Live While We're Young,0.0629,0.0543,0.658
+Gym Class Heroes,Ass Back Home (feat. Neon Hitch),0.134,0.0513,0.716
+Carrie Underwood,Blown Away,0.0909,0.0429,0.531
+alt-J,Breezeblocks,0.096,0.0344,0.616
+Chris Brown,Don't Wake Me Up,0.0548,0.051,0.602
+Kelly Clarkson,Stronger (What Doesn't Kill You),0.046,0.0475,0.562
+Drake,The Motto,0.000107,0.356,0.766
+Katy Perry,Wide Awake,0.0749,0.0367,0.514
+Rita Ora,How We Do (Party),0.0034,0.0833,0.738
+Rudimental,Feel the Love (feat. John Newman),0.0026,0.0593,0.389
+Lana Del Rey,Ride,0.128,0.034,0.373
+Ne-Yo,Let Me Love You (Until You Learn To Love Yourself),0.248,0.0393,0.658
+Demi Lovato,Give Your Heart a Break,0.23,0.0487,0.651
+Drake,Take Care,0.0267,0.265,0.629
+Little Mix,Wings,0.000673,0.127,0.738
+Bruno Mars,It Will Rain,0.337,0.0486,0.576
+Cher Lloyd,Want U Back,0.0662,0.076,0.696
+Lorde,Royals,0.121,0.122,0.674
+Robin Thicke,Blurred Lines,0.00412,0.0489,0.861
+Imagine Dragons,Radioactive,0.106,0.0627,0.448
+Avicii,Wake Me Up,0.0038,0.0523,0.532
+Bruno Mars,Locked out of Heaven,0.049,0.0431,0.726
+Macklemore & Ryan Lewis,Thrift Shop (feat. Wanz),0.0619,0.293,0.781
+Daft Punk,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,0.0426,0.038,0.794
+will.i.am,Scream & Shout,0.019,0.0696,0.772
+Stromae,Papaoutai,0.0241,0.0859,0.733
+Bingo Players,Get Up (Rattle) - Vocal Edit,0.0205,0.0645,0.801
+Naughty Boy,La La La,0.112,0.0316,0.754
+Tom Odell,Another Love,0.695,0.04,0.445
+2 Chainz,We Own It (Fast & Furious),0.0545,0.402,0.563
+David Guetta,Play Hard (feat. Ne-Yo & Akon),0.173,0.0533,0.691
+Pitbull,Feel This Moment (feat. Christina Aguilera),0.039,0.158,0.673
+will.i.am,#thatPOWER,0.00112,0.0584,0.797
+Lil Wayne,Love Me,0.0125,0.0327,0.669
+Macklemore & Ryan Lewis,Can't Hold Us (feat. Ray Dalton),0.0291,0.0786,0.641
+Martin Garrix,Animals - Radio Edit,0.00137,0.0363,0.593
+Jason Derulo,Talk Dirty (feat. 2 Chainz),0.0348,0.232,0.76
+John Newman,Love Me Again,0.00453,0.0441,0.495
+Britney Spears,Work B**ch,0.124,0.15,0.63
+The Neighbourhood,Sweater Weather,0.0495,0.0336,0.612
+Sebastian Ingrosso,Reload - Radio Edit,0.0736,0.0521,0.485
+Capital Cities,Safe And Sound,0.000189,0.0309,0.652
+Demi Lovato,Heart Attack,0.0738,0.104,0.504
+Arctic Monkeys,Why'd You Only Call Me When You're High?,0.0483,0.0368,0.691
+Justin Bieber,Beauty And A Beat,0.000688,0.0593,0.602
+Eminem,The Monster,0.0525,0.0715,0.781
+Pitbull,Don't Stop the Party (feat. TJR),0.00726,0.0912,0.722
+Selena Gomez,Come & Get It,0.0101,0.0517,0.546
+P!nk,True Love (feat. Lily Allen),0.00144,0.311,0.457
+Disclosure,White Noise,0.00963,0.0501,0.665
+Flo Rida,I Cry,0.00616,0.0439,0.693
+Kanye West,Black Skinhead,0.000986,0.322,0.578
+Lana Del Rey,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,0.0157,0.0558,0.572
+Eminem,Berzerk,0.0217,0.333,0.739
+Icona Pop,I Love It (feat. Charli XCX),0.00952,0.0284,0.711
+Fall Out Boy,My Songs Know What You Did In The Dark (Light Em Up),0.0271,0.064,0.558
+Lorde,Team,0.162,0.0939,0.691
+Avicii,I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit,0.332,0.0374,0.509
+Imagine Dragons,Demons,0.19,0.0321,0.505
+One Direction,One Way or Another (Teenage Kicks),0.025,0.071,0.489
+Taylor Swift,I Knew You Were Trouble.,0.00454,0.0363,0.622
+Arctic Monkeys,Do I Wanna Know?,0.186,0.0323,0.548
+Rudimental,Waiting All Night (feat. Ella Eyre),0.00264,0.05,0.544
+Klangkarussell,Sonnentanz - Sun Don't Shine,0.104,0.0909,0.579
+Calvin Harris,Drinking from the Bottle (feat. Tinie Tempah),0.0469,0.0514,0.665
+A$AP Rocky,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",0.0239,0.275,0.853
+P!nk,Try,0.00144,0.03,0.674
+Ylvis,The Fox (What Does the Fox Say?),0.107,0.0453,0.703
+Ellie Goulding,Burn,0.31,0.0432,0.559
+Baauer,Harlem Shake,0.0111,0.0483,0.452
+Calvin Harris,I Need Your Love (feat. Ellie Goulding),0.41,0.0483,0.695
+Katy Perry,This Is How We Do,0.0203,0.0457,0.69
+AWOLNATION,Sail,0.452,0.0568,0.825
+Duke Dumont,Need U (100%) [feat. A*M*E] - Radio Edit,0.00176,0.049,0.681
+Jason Derulo,The Other Side,0.0525,0.1,0.561
+Storm Queen,Look Right Through - MK Vocal Edit,0.00304,0.081,0.832
+Calvin Harris,Sweet Nothing (feat. Florence Welch),0.197,0.109,0.573
+Katy Perry,Unconditionally,0.00357,0.0387,0.555
+Wale,Bad (feat. Rihanna) - Remix,0.307,0.0748,0.807
+Ciara,Body Party,0.0143,0.0563,0.577
+Drake,Started From the Bottom,0.0331,0.161,0.794
+Birdy,Wings,0.0831,0.0253,0.474
+Bastille,Of The Night,0.0192,0.0427,0.67
+Olly Murs,Dear Darlin',0.00627,0.0454,0.512
+Katy Perry,Roar,0.00487,0.0418,0.554
+Blake Shelton,Sure Be Cool If You Did,0.255,0.035,0.576
+Calvin Harris,Thinking About You (feat. Ayah Marar),0.00262,0.0396,0.725
+JAY-Z,Holy Grail,0.0594,0.0831,0.676
+Bridgit Mendler,Ready or Not,0.00351,0.0509,0.715
+The Saturdays,What About Us,0.0059,0.0581,0.704
+Bastille,Pompeii,0.0755,0.0407,0.679
+One Direction,Best Song Ever,0.0227,0.0465,0.652
+Nelly,Hey Porsche,0.136,0.029,0.726
+Zedd,Clarity,0.0366,0.0753,0.523
+Miley Cyrus,Wrecking Ball,0.407,0.0342,0.53
+Chris Brown,Fine China,0.0466,0.056,0.659
+Daft Punk,Lose Yourself to Dance (feat. Pharrell Williams),0.0839,0.057,0.832
+Armin van Buuren,This Is What It Feels Like,0.0391,0.03,0.551
+Justin Timberlake,Mirrors,0.234,0.0503,0.574
+Bruno Mars,Treasure,0.0412,0.0431,0.874
+Of Monsters and Men,Little Talks,0.0206,0.032,0.457
+Miley Cyrus,We Can't Stop,0.00882,0.0334,0.613
+J. Cole,Power Trip (feat. Miguel),0.322,0.217,0.667
+Paramore,Still into You,0.0098,0.044,0.602
+Christina Perri,human,0.132,0.0368,0.439
+Drake,"Hold On, We're Going Home",0.00411,0.0961,0.773
+James Blunt,Bonfire Heart,0.181,0.0527,0.575
+Maroon 5,Daylight,0.00242,0.0269,0.656
+Childish Gambino,3005,0.128,0.289,0.681
+Avril Lavigne,Here's to Never Growing Up,0.015,0.101,0.483
+Taylor Swift,22,0.00215,0.0376,0.661
+Passenger,Let Her Go,0.385,0.0572,0.509
+Ariana Grande,The Way,0.294,0.113,0.645
+Rihanna,Stay,0.945,0.0283,0.621
+Justin Timberlake,Suit & Tie (feat. Jay-Z),0.103,0.219,0.795
+Bruno Mars,When I Was Your Man,0.932,0.0434,0.612
+Florida Georgia Line,Cruise,0.0191,0.0354,0.457
+Pharrell Williams,"Happy - From ""Despicable Me 2""",0.219,0.183,0.647
+Katy Perry,Dark Horse,0.00314,0.0512,0.647
+ScHoolboy Q,Collard Greens,0.0239,0.064,0.826
+Iggy Azalea,Fancy,0.0904,0.0697,0.912
+Maroon 5,Animals,0.000185,0.0898,0.279
+Sam Smith,Stay With Me,0.588,0.0414,0.418
+MAGIC!,Rude,0.0422,0.0381,0.773
+Sia,Chandelier,0.0197,0.0499,0.399
+John Legend,All of Me,0.922,0.0322,0.422
+ZHU,Faded,0.00865,0.0487,0.861
+Meghan Trainor,All About That Bass,0.0573,0.0503,0.807
+David Guetta,Lovers on the Sun (feat. Sam Martin),0.0932,0.0387,0.645
+Iggy Azalea,Black Widow,0.192,0.124,0.743
+Tove Lo,Habits (Stay High),0.0703,0.0315,0.733
+Oliver Heldens,Gecko (Overdrive) - Radio Edit,0.00521,0.0642,0.609
+DJ Snake,You Know You Like It,0.0141,0.188,0.407
+Jason Derulo,Talk Dirty (feat. 2 Chainz),0.0348,0.232,0.76
+Maroon 5,Maps,0.0179,0.0295,0.737
+David Guetta,Bad (feat. Vassy) - Radio Edit,0.00125,0.088,0.614
+Tinashe,2 On (feat. ScHoolboy Q),0.15,0.107,0.742
+Route 94,My Love (feat. Jess Glynne),0.000132,0.0492,0.814
+Taylor Swift,Bad Blood,0.0885,0.19,0.646
+Trey Songz,Na Na,0.328,0.0406,0.67
+Calvin Harris,Under Control (feat. Hurts),0.129,0.0841,0.544
+O.T. Genasis,CoCo,0.00215,0.131,0.886
+Jason Derulo,Wiggle (feat. Snoop Dogg),0.0802,0.25,0.697
+Lilly Wood and The Prick,Prayer in C - Robin Schulz Radio Edit,0.0219,0.0258,0.76
+Jeremih,Don't Tell 'Em,0.392,0.0997,0.856
+Nicki Minaj,Anaconda,0.0668,0.179,0.964
+Calvin Harris,Blame (feat. John Newman),0.0287,0.0808,0.414
+DJ Snake,Turn Down for What,0.00107,0.156,0.818
+Pitbull,Timber (feat. Ke$ha),0.0295,0.0981,0.581
+OneRepublic,Counting Stars,0.0654,0.0385,0.663
+Bobby Shmurda,Hot N*gga,0.0505,0.42,0.794
+Calvin Harris,Summer,0.0215,0.0325,0.603
+ScHoolboy Q,Man Of The Year,0.00518,0.0428,0.743
+Nico & Vinz,Am I Wrong,0.175,0.0312,0.729
+Becky G,Shower,0.0317,0.0487,0.699
+Sigma,Nobody To Love - Radio Edit,0.000526,0.0436,0.441
+The Chainsmokers,#SELFIE - Original Mix,0.0135,0.248,0.789
+Lorde,Team,0.167,0.0929,0.69
+Rixton,Me And My Broken Heart,0.00489,0.0345,0.545
+Klingande,Jubel - Radio Edit,0.649,0.0343,0.686
+Mr. Probz,Waves - Robin Schulz Radio Edit,0.00821,0.0369,0.829
+Paloma Faith,Only Love Can Hurt Like This,0.0958,0.0818,0.566
+Kiesza,Hideaway,0.0862,0.0483,0.838
+Ellie Goulding,Burn,0.31,0.0432,0.559
+Ariana Grande,Break Free,0.0064,0.0455,0.687
+Kid Ink,Show Me (feat. Chris Brown),0.0355,0.0502,0.711
+Tove Lo,Talking Body,0.0966,0.0338,0.736
+Chris Brown,Loyal (feat. Lil Wayne & Tyga),0.0168,0.049,0.841
+OneRepublic,Love Runs Out,0.167,0.0589,0.719
+Olly Murs,Up (feat. Demi Lovato),0.0193,0.0339,0.69
+Peking Duk,High (feat. Nicole Millar),0.00129,0.0492,0.525
+Milky Chance,Stolen Dance,0.427,0.0378,0.885
+Ed Sheeran,Don't,0.0113,0.0659,0.806
+Ariana Grande,Love Me Harder,0.00937,0.0334,0.472
+Enrique Iglesias,Bailando - Spanish Version,0.0467,0.105,0.718
+Avicii,Hey Brother,0.0309,0.0436,0.545
+Jessie J,Bang Bang,0.26,0.091,0.706
+Duke Dumont,I Got U,0.00377,0.035,0.636
+Gorgon City,Ready For Your Love,0.0531,0.154,0.677
+Taylor Swift,Style,0.00245,0.0402,0.588
+MKTO,Classic,0.0384,0.124,0.72
+Disclosure,Latch,0.0159,0.167,0.503
+Ariana Grande,Problem,0.0192,0.153,0.66
+Charli XCX,Boom Clap,0.154,0.0786,0.659
+One Direction,Steal My Girl,0.00433,0.0347,0.536
+Tiësto,Red Lights,0.000739,0.0377,0.653
+Selena Gomez,The Heart Wants What It Wants,0.053,0.0377,0.616
+Rita Ora,I Will Never Let You Down,0.403,0.0296,0.753
+5 Seconds of Summer,She Looks So Perfect,0.000569,0.132,0.494
+The Script,Superheroes,0.00218,0.0396,0.49
+Taylor Swift,Shake It Off,0.0647,0.165,0.647
+One Direction,Night Changes,0.859,0.0353,0.672
+Ed Sheeran,Sing,0.304,0.0472,0.818
+Alesso,Heroes (we could be),0.0373,0.0634,0.521
+Tiësto,Wasted,0.00106,0.0294,0.645
+G.R.L.,Ugly Heart,0.019,0.0463,0.65
+Coldplay,A Sky Full of Stars,0.00617,0.0279,0.545
+Clean Bandit,Rather Be (feat. Jess Glynne),0.162,0.0377,0.799
+Zedd,Stay The Night - Featuring Hayley Williams Of Paramore,0.109,0.0411,0.596
+Sia,Elastic Heart,0.0117,0.0496,0.421
+One Direction,Story of My Life,0.225,0.0477,0.6
+Alex & Sierra,Little Do You Know,0.746,0.0323,0.5
+Omarion,Post to Be (feat. Chris Brown & Jhene Aiko),0.0697,0.0432,0.733
+Echosmith,Cool Kids,0.0372,0.0336,0.719
+Natalie La Rose,Somebody,0.000792,0.0376,0.83
+Vance Joy,Riptide,0.431,0.0379,0.484
+Beyoncé,Drunk in Love (feat. Jay-Z),0.00969,0.0468,0.589
+Maroon 5,Sugar,0.0553,0.0337,0.744
+Ella Henderson,Ghost,0.0457,0.0414,0.68
+Ed Sheeran,"I See Fire - From ""The Hobbit - The Desolation Of Smaug""",0.559,0.0397,0.581
+Chris Brown,New Flame (feat. Usher & Rick Ross),0.0506,0.041,0.702
+Sheppard,Geronimo,0.434,0.0783,0.707
+Olly Murs,Wrapped Up (feat. Travie McCoy),0.0915,0.0549,0.787
+Sam Smith,Money On My Mind,0.204,0.179,0.688
+Jason Derulo,Trumpets,0.563,0.236,0.627
+Nicki Minaj,Bed Of Lies,0.251,0.194,0.716
+Nick Jonas,Jealous - Remix,0.0132,0.0748,0.685
+Mark Ronson,Uptown Funk (feat. Bruno Mars),0.00801,0.0824,0.856
+Ed Sheeran,Thinking out Loud,0.474,0.0295,0.781
+Wiz Khalifa,See You Again (feat. Charlie Puth),0.369,0.0815,0.689
+Justin Bieber,What Do You Mean?,0.59,0.0956,0.845
+Major Lazer,Lean On (feat. MØ & DJ Snake),0.00346,0.0625,0.723
+The Weeknd,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",0.385,0.0304,0.659
+Ellie Goulding,"Love Me Like You Do - From ""Fifty Shades Of Grey""",0.247,0.0484,0.262
+Calvin Harris,Outside (feat. Ellie Goulding),0.213,0.0394,0.646
+David Guetta,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",0.24,0.151,0.596
+Demi Lovato,Cool for the Summer,0.00441,0.0386,0.586
+Taylor Swift,Blank Space,0.103,0.054,0.76
+The Weeknd,The Hills,0.0671,0.0515,0.585
+The Neighbourhood,Daddy Issues,0.0678,0.0329,0.588
+Deorro,Five More Hours,0.0288,0.219,0.699
+Avicii,The Nights,0.0166,0.0433,0.527
+DJ Snake,You Know You Like It,0.0141,0.188,0.407
+Adam Lambert,Ghost Town,0.186,0.046,0.703
+Rae Sremmurd,No Type,0.0158,0.159,0.891
+Taylor Swift,Bad Blood,0.0294,0.106,0.654
+Flo Rida,GDFR (feat. Sage the Gemini & Lookas),0.000704,0.0734,0.657
+Robin Schulz,Sugar (feat. Francesco Yates),0.0185,0.0581,0.636
+Calvin Harris,How Deep Is Your Love,0.0392,0.0731,0.738
+Philip George,Wish You Were Mine - Radio Edit,0.0126,0.0293,0.654
+Trey Songz,Na Na,0.328,0.0406,0.67
+Fall Out Boy,Centuries,0.00359,0.0729,0.393
+Rob $tone,Chill Bill (feat. J. Davi$ & Spooks),0.0312,0.145,0.886
+Lost Frequencies,Are You With Me - Radio Edit,0.466,0.0317,0.776
+Twenty One Pilots,Stressed Out,0.0462,0.141,0.734
+Fifth Harmony,Worth It (feat. Kid Ink),0.063,0.0882,0.884
+KALEO,Way down We Go,0.612,0.0528,0.59
+Sam Smith,Like I Can,0.343,0.0379,0.656
+Major Lazer,Light It Up (feat. Nyla & Fuse ODG) - Remix,0.0375,0.0666,0.746
+Martin Solveig,Intoxicated - New Radio Mix,0.00563,0.0393,0.8
+Avicii,Waiting For Love,0.31,0.0527,0.579
+Felix Jaehn,Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson),0.672,0.0311,0.778
+Taylor Swift,Wildest Dreams,0.0709,0.0741,0.553
+The Weeknd,In The Night,0.0696,0.13,0.48
+Pitbull,Time of Our Lives,0.0921,0.0583,0.721
+Galantis,Runaway (U & I),0.00711,0.0469,0.506
+Rihanna,Bitch Better Have My Money,0.0509,0.0621,0.781
+Zara Larsson,Lush Life,0.141,0.0536,0.658
+One Direction,Drag Me Down,0.109,0.0369,0.73
+Travis Scott,Antidote,0.00767,0.032,0.713
+Years & Years,King,0.0665,0.0388,0.559
+Demi Lovato,Confident,0.00188,0.0677,0.594
+Lemaitre,Closer,0.0012,0.0337,0.583
+Selena Gomez,Same Old Love,0.0223,0.0304,0.672
+Pia Mia,Do It Again,0.0266,0.047,0.712
+Flo Rida,My House,0.0215,0.0499,0.688
+Silentó,Watch Me (Whip / Nae Nae),0.234,0.134,0.819
+Chris Brown,Ayo,0.0399,0.0443,0.823
+The Strumbellas,Spirits,0.164,0.0265,0.556
+Fetty Wap,Trap Queen,0.0244,0.128,0.746
+Tove Lo,Talking Body,0.0966,0.0338,0.736
+Beyoncé,7/11,0.0128,0.126,0.747
+Lana Del Rey,High By The Beach,0.244,0.0346,0.536
+Zara Larsson,Never Forget You,0.00312,0.0457,0.583
+Jeremih,oui,0.213,0.0964,0.418
+Drake,Hotline Bling,0.00258,0.0551,0.891
+Selena Gomez,Kill Em With Kindness,0.00795,0.0404,0.757
+Birdy,Let It All Go,0.817,0.0302,0.383
+Fetty Wap,679 (feat. Remy Boyz),0.00256,0.318,0.618
+Ariana Grande,Love Me Harder,0.00937,0.0334,0.472
+The Weeknd,Can't Feel My Face,0.113,0.0425,0.705
+SAYGRACE,You Don't Own Me (feat. G-Eazy),0.166,0.102,0.336
+X Ambassadors,Renegades,0.0144,0.0905,0.526
+R. City,Locked Away (feat. Adam Levine),0.304,0.0678,0.509
+Kygo,Stole the Show,0.271,0.226,0.64
+Tame Impala,The Less I Know The Better,0.0115,0.0284,0.64
+Selena Gomez,Good For You,0.154,0.0652,0.6
+Fetty Wap,My Way (feat. Monty),0.00419,0.0531,0.748
+Hozier,Take Me To Church,0.634,0.0464,0.566
+Taylor Swift,Style,0.00245,0.0402,0.588
+Alessia Cara,Here,0.0804,0.163,0.379
+Sam Smith,"Writing's On The Wall - From ""Spectre"" Soundtrack",0.769,0.0339,0.261
+David Guetta,Bang My Head (feat. Sia & Fetty Wap),0.0525,0.0789,0.599
+Meek Mill,All Eyes on You (feat. Chris Brown & Nicki Minaj),0.0242,0.203,0.589
+Big Sean,I Don't Fuck With You,0.0362,0.0613,0.824
+Kygo,Firestone,0.393,0.0428,0.704
+Drake,Jumpman,0.0462,0.202,0.853
+Petit Biscuit,Sunset Lover,0.729,0.0503,0.783
+Shawn Mendes,Stitches,0.0152,0.0676,0.746
+Flo Rida,"I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",0.0242,0.141,0.854
+Selena Gomez,The Heart Wants What It Wants,0.053,0.0377,0.616
+Jack Ü,Where Are Ü Now (with Justin Bieber),0.041,0.0567,0.432
+Ellie Goulding,On My Mind,0.264,0.0522,0.699
+Bryson Tiller,Don't,0.223,0.195,0.765
+Rich Homie Quan,"Flex (Ooh, Ooh, Ooh)",0.0384,0.0496,0.676
+Joel Adams,Please Don't Go,0.0118,0.0587,0.513
+Zedd,I Want You To Know,0.00621,0.0659,0.561
+Jonas Blue,Fast Car,0.484,0.052,0.644
+BØRNS,Electric Love,0.00407,0.0889,0.373
+Sigala,Easy Love,0.175,0.0631,0.68
+Justin Bieber,Sorry,0.0797,0.045,0.654
+Ariana Grande,One Last Time,0.093,0.0323,0.628
+Little Mix,Black Magic,0.0352,0.0619,0.777
+One Direction,Perfect,0.0598,0.0762,0.647
+Years & Years,Shine,0.189,0.0349,0.667
+Meghan Trainor,Lips Are Movin,0.0506,0.0464,0.775
+Nicky Jam,El Perdón - Forgiveness,0.256,0.0357,0.736
+The Weeknd,Starboy,0.165,0.282,0.681
+Drake,One Dance,0.00776,0.0536,0.792
+Justin Bieber,Love Yourself,0.835,0.438,0.609
+The Chainsmokers,Closer,0.414,0.0338,0.748
+Adele,Hello,0.329,0.0342,0.471
+Desiigner,Panda,0.028,0.449,0.576
+Burak Yeter,Tuesday (feat. Danelle Sandoval),0.0156,0.0688,0.841
+Sia,Cheap Thrills (feat. Sean Paul),0.0561,0.215,0.592
+OneRepublic,Wherever I Go,0.0915,0.0425,0.552
+Rihanna,Work,0.0752,0.0946,0.725
+Coldplay,Hymn for the Weekend,0.211,0.0377,0.491
+Justin Bieber,Sorry,0.0797,0.045,0.654
+Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",0.0123,0.0751,0.666
+WILLOW,Wait a Minute!,0.0371,0.0278,0.764
+Desiigner,Tiimmy Turner,0.174,0.0393,0.603
+G-Eazy,"Me, Myself & I",0.0184,0.0959,0.756
+David Guetta,This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016),0.0022,0.0488,0.367
+Astrid S,Hurts So Good,0.082,0.049,0.672
+Lil Wayne,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",0.255,0.317,0.502
+Twenty One Pilots,Heathens,0.0841,0.0286,0.732
+Future,Low Life (feat. The Weeknd),0.337,0.0726,0.722
+Galantis,No Money,0.0282,0.0397,0.671
+The Chainsmokers,Don't Let Me Down,0.157,0.172,0.532
+Tinie Tempah,Girls Like (feat. Zara Larsson),0.37,0.049,0.916
+Alok,Hear Me Now,0.537,0.0419,0.788
+Jon Bellion,All Time Low,0.0584,0.0828,0.617
+Cheat Codes,Sex,0.00451,0.171,0.51
+Meghan Trainor,NO,0.0124,0.213,0.557
+Dua Lipa,Hotter Than Hell,0.011,0.0908,0.532
+Martin Garrix,In the Name of Love,0.109,0.0409,0.501
+Alan Walker,Faded,0.0281,0.0476,0.468
+Tove Lo,Cool Girl,0.343,0.111,0.674
+DJ Snake,Let Me Love You,0.0863,0.0349,0.649
+Calvin Harris,This Is What You Came For (feat. Rihanna),0.199,0.0332,0.631
+Mike Posner,I Took A Pill In Ibiza - Seeb Remix,0.0353,0.111,0.664
+Kevin Gates,2 Phones,0.157,0.358,0.895
+Rihanna,Needed Me,0.11,0.244,0.671
+Ariana Grande,Side To Side,0.0408,0.247,0.648
+Marshmello,Alone,0.0241,0.0343,0.631
+Shawn Mendes,I Know What You Did Last Summer,0.102,0.0876,0.687
+Selena Gomez,Same Old Love,0.0223,0.0304,0.672
+Calvin Harris,My Way,0.093,0.0426,0.818
+Fitz and The Tantrums,HandClap,0.00609,0.0427,0.636
+Twenty One Pilots,Ride,0.00835,0.0393,0.645
+Flo Rida,My House,0.0215,0.0499,0.688
+Ariana Grande,Dangerous Woman,0.0612,0.0385,0.677
+Anne-Marie,Alarm,0.0812,0.232,0.756
+Charlie Puth,We Don't Talk Anymore (feat. Selena Gomez),0.621,0.134,0.728
+AlunaGeorge,I'm In Control,0.355,0.0346,0.734
+Enrique Iglesias,DUELE EL CORAZON (feat. Wisin),0.0858,0.103,0.716
+MNEK,Never Forget You,0.00312,0.0457,0.583
+Mike Perry,The Ocean (feat. Shy Martin),0.0225,0.029,0.632
+Drake,Hotline Bling,0.00347,0.0587,0.903
+Ariana Grande,Into You,0.0162,0.107,0.623
+Shawn Mendes,Treat You Better,0.106,0.341,0.444
+Tory Lanez,Say It,0.0862,0.0583,0.546
+Coldplay,Adventure of a Lifetime,0.00205,0.036,0.638
+Kungs,This Girl - Kungs Vs. Cookin' On 3 Burners,0.0807,0.0383,0.79
+SAYGRACE,You Don't Own Me (feat. G-Eazy),0.159,0.0898,0.332
+X Ambassadors,Renegades,0.0144,0.0905,0.526
+DNCE,Cake By The Ocean,0.152,0.0517,0.774
+99 Souls,The Girl Is Mine,0.00423,0.0397,0.683
+Illy,Papercuts (feat. Vera Blue),0.161,0.249,0.369
+Kiiara,Gold,0.615,0.344,0.6
+Kygo,Stole the Show,0.151,0.171,0.678
+Fifth Harmony,Work from Home (feat. Ty Dolla $ign),0.103,0.0432,0.803
+Drake,Pop Style,0.192,0.123,0.713
+ZAYN,PILLOWTALK,0.104,0.0496,0.588
+Alessia Cara,Here,0.0783,0.104,0.376
+DJ Snake,Middle,0.0199,0.0436,0.611
+Sigala,Sweet Lovin' - Radio Edit,0.0553,0.0515,0.683
+Drake,Jumpman,0.0559,0.187,0.852
+Charlie Puth,Dangerously,0.364,0.0366,0.696
+Nick Jonas,Close,0.253,0.082,0.654
+Jonas Blue,Perfect Strangers,0.372,0.0487,0.742
+Major Lazer,Cold Water (feat. Justin Bieber & MØ),0.0736,0.0432,0.608
+The Chainsmokers,Roses,0.0435,0.0561,0.713
+Tory Lanez,LUV,0.0118,0.114,0.688
+P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",0.0114,0.148,0.632
+Bryson Tiller,Don't,0.223,0.195,0.765
+Steve Aoki,Just Hold On,0.00383,0.0824,0.647
+Clean Bandit,Tears (feat. Louisa Johnson),0.0431,0.0446,0.605
+Jonas Blue,Fast Car,0.453,0.0785,0.459
+Flume,Never Be Like You,0.441,0.0624,0.443
+Bastille,Good Grief,0.147,0.0653,0.73
+Sia,The Greatest (feat. Kendrick Lamar),0.0102,0.266,0.668
+PARTYNEXTDOOR,Not Nice,0.0253,0.0804,0.598
+Garrett Nash,"i hate u, i love u (feat. olivia o'brien)",0.687,0.3,0.492
+Hilltop Hoods,1955,0.719,0.0695,0.766
+Fifth Harmony,All In My Head (Flex) (feat. Fetty Wap),0.023,0.053,0.689
+Daya,"Sit Still, Look Pretty",0.141,0.274,0.657
+Kent Jones,Don't Mind,0.0235,0.336,0.464
+Flume,Say It,0.0731,0.0322,0.581
+Bryson Tiller,Exchange,0.107,0.185,0.525
+MØ,Final Song,0.014,0.0345,0.695
+Beyoncé,Sorry,0.00175,0.0535,0.775
+Little Mix,Shout Out to My Ex,0.0239,0.0889,0.773
+The Lumineers,Ophelia,0.63,0.0286,0.664
+Frank Ocean,Pink + White,0.67,0.0991,0.544
+Drake,Too Good,0.0489,0.104,0.794
+Ed Sheeran,Shape of You,0.581,0.0802,0.825
+Sean Paul,No Lie,0.0466,0.117,0.742
+Luis Fonsi,Despacito (Featuring Daddy Yankee),0.209,0.17,0.66
+Sam Smith,Too Good At Goodbyes,0.64,0.0432,0.681
+Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),0.406,0.0523,0.72
+Camila Cabello,Havana (feat. Young Thug),0.186,0.0312,0.768
+Imagine Dragons,Thunder,0.00683,0.0479,0.6
+Maroon 5,Don't Wanna Know (feat. Kendrick Lamar),0.343,0.0696,0.783
+The Chainsmokers,Something Just Like This,0.0498,0.0317,0.617
+Ed Sheeran,Perfect,0.163,0.0232,0.599
+MGMT,Little Dark Age,0.0102,0.0385,0.705
+Travis Scott,goosebumps,0.0847,0.0484,0.841
+Billie Eilish,Bored,0.896,0.0478,0.614
+Future,Mask Off,0.0102,0.431,0.833
+G-Eazy,Him & I,0.0534,0.0868,0.589
+Maroon 5,Cold (feat. Future),0.118,0.113,0.697
+Rae Sremmurd,Swang,0.2,0.0581,0.681
+Lil Peep,Save That Shit,0.0262,0.0288,0.534
+A$AP Ferg,Plain Jane,0.0651,0.275,0.797
+French Montana,Unforgettable,0.0293,0.123,0.726
+21 Savage,Bank Account,0.015,0.35,0.884
+Axwell /\ Ingrosso,More Than You Know,0.0323,0.0339,0.645
+ZAYN,Dusk Till Dawn (feat. Sia) - Radio Edit,0.102,0.0386,0.259
+J Balvin,Mi Gente,0.0178,0.0914,0.548
+Jax Jones,You Don't Know Me - Radio Edit,0.163,0.138,0.876
+Rae Sremmurd,Black Beatles,0.142,0.0649,0.794
+Zara Larsson,Ain't My Fault,0.00778,0.0296,0.576
+Travis Scott,BUTTERFLY EFFECT,0.0714,0.0539,0.763
+Ayo & Teo,Rolex,0.0837,0.04,0.804
+Lil Uzi Vert,XO Tour Llif3,0.00264,0.231,0.732
+Imagine Dragons,Whatever It Takes,0.0362,0.0311,0.672
+Rob $tone,Chill Bill (feat. J. Davi$ & Spooks),0.0312,0.145,0.886
+Jason Derulo,Swalla (feat. Nicki Minaj & Ty Dolla $ign),0.075,0.109,0.696
+G-Eazy,No Limit,0.0117,0.244,0.838
+Playboi Carti,Magnolia,0.0114,0.286,0.791
+Chord Overstreet,Hold On,0.469,0.0526,0.618
+Jax Jones,Breathe,0.0234,0.0363,0.722
+Imagine Dragons,Believer,0.0524,0.108,0.779
+Natti Natasha,Criminal,0.03,0.0561,0.814
+Kendrick Lamar,HUMBLE.,0.000243,0.0903,0.906
+Selena Gomez,Fetish (feat. Gucci Mane),0.0204,0.0592,0.708
+Charlie Puth,Attention,0.0969,0.0432,0.774
+Big Shaq,Man's Not Hot,0.111,0.236,0.905
+Anne-Marie,Ciao Adios,0.127,0.0863,0.698
+Rag'n'Bone Man,Human,0.393,0.302,0.602
+blackbear,do re mi,0.00522,0.0526,0.745
+Lil Pump,Gucci Gang,0.239,0.0597,0.936
+Taylor Swift,Look What You Made Me Do,0.204,0.123,0.766
+Enrique Iglesias,SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),0.0642,0.0537,0.688
+Kodak Black,Tunnel Vision,0.0576,0.294,0.497
+Kendrick Lamar,DNA.,0.00402,0.36,0.636
+A Boogie Wit da Hoodie,Drowning (feat. Kodak Black),0.501,0.0568,0.839
+XXXTENTACION,Jocelyn Flores,0.469,0.242,0.872
+Migos,Bad and Boujee (feat. Lil Uzi Vert),0.0611,0.244,0.926
+Yo Gotti,Rake It Up (feat. Nicki Minaj),0.022,0.344,0.91
+Martin Garrix,Scared to Be Lonely,0.0895,0.0576,0.584
+Jonas Blue,Mama,0.091,0.0418,0.739
+Martin Jensen,Solo Dance,0.0435,0.0507,0.744
+Taylor Swift,...Ready For It?,0.0527,0.136,0.613
+David Guetta,2U (feat. Justin Bieber),0.219,0.0591,0.548
+Migos,Slippery (feat. Gucci Mane),0.307,0.263,0.92
+Shawn Mendes,There's Nothing Holdin' Me Back,0.381,0.0583,0.857
+G-Eazy,Good Life (with G-Eazy & Kehlani),0.00638,0.233,0.572
+The Vamps,All Night,0.0041,0.0358,0.538
+Dua Lipa,New Rules,0.00261,0.0691,0.763
+Cardi B,Bodak Yellow,0.0672,0.109,0.929
+Rag'n'Bone Man,Skin,0.265,0.31,0.564
+Zara Larsson,I Would Like,0.0853,0.0524,0.486
+DJ Khaled,Wild Thoughts (feat. Rihanna & Bryson Tiller),0.0329,0.0688,0.671
+Post Malone,Congratulations,0.215,0.0363,0.63
+Avicii,Without You (feat. Sandro Cavazza),0.00163,0.0428,0.662
+Clean Bandit,Symphony (feat. Zara Larsson),0.281,0.043,0.718
+Katy Perry,Chained To The Rhythm,0.0814,0.112,0.562
+Zay Hilfigerrr,Juju on That Beat (TZ Anthem),0.00381,0.275,0.807
+Calvin Harris,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",0.0642,0.0571,0.893
+Migos,T-Shirt,0.242,0.217,0.865
+OneRepublic,Rich Love (with Seeb),0.167,0.314,0.401
+Maggie Lindemann,Pretty Girl - Cheat Codes X CADE Remix,0.15,0.0291,0.703
+Macklemore,Glorious (feat. Skylar Grey),0.0323,0.0522,0.731
+Hayden James,NUMB,0.184,0.0431,0.617
+Liam Payne,Strip That Down,0.246,0.0545,0.869
+Drake,Passionfruit,0.256,0.0396,0.809
+Justin Bieber,Friends (with BloodPop®),0.00459,0.0387,0.744
+ZAYN,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",0.0631,0.0585,0.735
+Alessia Cara,Scars To Your Beautiful,0.0285,0.272,0.319
+2 Chainz,It's A Vibe,0.0312,0.148,0.822
+Starley,Call on Me - Ryan Riback Remix,0.0605,0.0362,0.67
+AJR,Weak,0.137,0.0429,0.673
+Lana Del Rey,Lust for Life (with The Weeknd),0.588,0.0582,0.499
+CNCO,Reggaetón Lento (Remix),0.158,0.0758,0.623
+The Vamps,Middle Of The Night,0.0037,0.058,0.588
+The Weeknd,I Feel It Coming,0.428,0.118,0.773
+The Chainsmokers,Paris,0.0215,0.0304,0.653
+Big Sean,Bounce Back,0.106,0.139,0.78
+Shawn Mendes,Mercy,0.118,0.0818,0.561
+Avicii,Lonely Together (feat. Rita Ora),0.134,0.0612,0.655
+Cheat Codes,No Promises (feat. Demi Lovato),0.0575,0.134,0.741
+Bruno Mars,24K Magic,0.034,0.0797,0.818
+Lorde,Homemade Dynamite - REMIX,0.229,0.0764,0.781
+Kygo,It Ain't Me (with Selena Gomez),0.119,0.0706,0.64
+Drake,God's Plan,0.0332,0.109,0.754
+Post Malone,rockstar (feat. 21 Savage),0.124,0.0712,0.585
+Offset,Ric Flair Drip (with Metro Boomin),0.149,0.206,0.88
+G-Eazy,Him & I (with Halsey),0.0534,0.0868,0.589
+Dynoro,In My Mind,0.176,0.149,0.694
+Juice WRLD,Lucid Dreams,0.349,0.2,0.511
+Zedd,The Middle,0.171,0.0449,0.753
+Marshmello,FRIENDS,0.205,0.0504,0.626
+Cardi B,I Like It,0.099,0.129,0.816
+XXXTENTACION,Moonlight,0.556,0.0804,0.921
+Ariana Grande,no tears left to cry,0.04,0.0594,0.699
+Sheck Wes,Mo Bamba,0.194,0.0315,0.729
+Calvin Harris,One Kiss (with Dua Lipa),0.037,0.11,0.791
+Tyga,Taste (feat. Offset),0.0236,0.12,0.884
+Travis Scott,SICKO MODE,0.00513,0.222,0.834
+Imagine Dragons,Natural,0.217,0.0409,0.704
+DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",0.157,0.228,0.842
+Marshmello,Spotlight,0.0145,0.151,0.546
+The Weeknd,Pray For Me (with Kendrick Lamar),0.0762,0.093,0.735
+Billie Eilish,lovely (with Khalid),0.934,0.0333,0.351
+Migos,Walk It Talk It,0.0876,0.184,0.907
+Clean Bandit,Solo (feat. Demi Lovato),0.0441,0.0437,0.737
+Drake,Nonstop,0.0165,0.123,0.912
+6ix9ine,FEFE,0.088,0.412,0.931
+The Weeknd,Call Out My Name,0.17,0.0356,0.461
+Nio Garcia,Te Boté - Remix,0.542,0.214,0.903
+Migos,MotorSport,0.0305,0.183,0.904
+Nicky Jam,X,0.0338,0.056,0.594
+XXXTENTACION,SAD!,0.258,0.145,0.74
+Becky G,Sin Pijama,0.354,0.0464,0.791
+Machine Gun Kelly,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",0.00413,0.213,0.653
+6ix9ine,GUMMO,0.0553,0.172,0.66
+Jax Jones,Breathe,0.0234,0.0363,0.722
+The Chainsmokers,Sick Boy,0.109,0.0531,0.663
+Jay Rock,"King's Dead (with Kendrick Lamar, Future & James Blake)",0.000813,0.299,0.645
+Rich The Kid,Plug Walk,0.202,0.143,0.876
+Kendrick Lamar,All The Stars (with SZA),0.0605,0.0597,0.698
+Logic,Everyday,0.0425,0.0378,0.667
+Jason Derulo,Tip Toe (feat. French Montana),0.0233,0.0714,0.845
+Ariana Grande,God is a woman,0.0233,0.0558,0.602
+Rae Sremmurd,Powerglide (feat. Juicy J) - From SR3MM,0.0168,0.15,0.713
+EO,German,0.811,0.0654,0.862
+Dennis Lloyd,Nevermind,0.159,0.201,0.6
+girl in red,we fell in love in october,0.113,0.028,0.566
+Selena Gomez,Wolves,0.124,0.0448,0.724
+Tiësto,Jackie Chan,0.374,0.045,0.747
+Tom Walker,Leave a Light On,0.0153,0.113,0.586
+Sofía Reyes,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",0.165,0.0589,0.792
+Marshmello,Silence,0.256,0.0853,0.52
+5 Seconds of Summer,Youngblood,0.0169,0.463,0.596
+Loud Luxury,Body (feat. brando),0.0476,0.038,0.752
+Liam Payne,For You (Fifty Shades Freed) (& Rita Ora),0.0167,0.0331,0.541
+NF,Let You Down,0.312,0.121,0.662
+XXXTENTACION,changes,0.883,0.029,0.669
+Maluma,Corazón (feat. Nego do Borel),0.328,0.247,0.722
+Cardi B,Bodak Yellow,0.0659,0.103,0.926
+Lil Baby,Yes Indeed,0.0355,0.53,0.963
+Jonas Blue,Rise,0.327,0.0333,0.687
+David Guetta,Flames,0.0817,0.0385,0.631
+Ozuna,Vaina Loca,0.315,0.0752,0.754
+Charlie Puth,How Long,0.211,0.0778,0.845
+Post Malone,Better Now,0.331,0.04,0.68
+BlocBoy JB,Look Alive (feat. Drake),0.00104,0.27,0.922
+Eminem,River (feat. Ed Sheeran),0.142,0.516,0.748
+Marshmello,Happier,0.191,0.0452,0.687
+Dean Lewis,Be Alright,0.697,0.0362,0.553
+Charlie Puth,Done for Me (feat. Kehlani),0.193,0.074,0.856
+Migos,Stir Fry,0.00263,0.269,0.817
+YG,"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",0.00552,0.331,0.745
+Drake,In My Feelings,0.0589,0.125,0.835
+B Young,Jumanji,0.279,0.25,0.791
+Charlie Puth,The Way I Am,0.314,0.186,0.755
+Reik,Me Niego (feat. Ozuna & Wisin),0.0543,0.0972,0.777
+benny blanco,Eastside (with Halsey & Khalid),0.555,0.321,0.56
+Luis Fonsi,Échame La Culpa,0.0376,0.0417,0.733
+MK,17,0.00149,0.0689,0.703
+Rita Ora,Anywhere,0.0364,0.0596,0.628
+Banx & Ranx,Answerphone (feat. Yxng Bane),0.0387,0.0885,0.671
+Ella Mai,Trip,0.225,0.144,0.477
+Daddy Yankee,Dura,0.174,0.051,0.783
+DJ Khaled,No Brainer,0.0733,0.342,0.552
+Anne-Marie,2002,0.0372,0.117,0.697
+Bruno Mars,Finesse - Remix; feat. Cardi B,0.0185,0.0996,0.704
+FINNEAS,Let's Fall in Love for the Night,0.802,0.104,0.737
+Hugh Jackman,The Greatest Show,0.000239,0.105,0.417
+Halsey,Bad At Love,0.0604,0.0296,0.675
+Drake,I'm Upset,0.279,0.343,0.899
+Camila Cabello,Never Be the Same,0.181,0.0747,0.637
+M.O,Bad Vibe,0.178,0.0449,0.813
+Dua Lipa,IDGAF,0.0403,0.0943,0.836
+Cashmere Cat,Miss You (with Major Lazer & Tory Lanez),0.25,0.0925,0.747
+Bazzi,Mine,0.0161,0.0722,0.71
+Lil Dicky,Freaky Friday (feat. Chris Brown),0.147,0.224,0.755
+Lauv,I Like Me Better,0.535,0.253,0.752
+The Chainsmokers,This Feeling,0.0558,0.0439,0.575
+Maroon 5,Girls Like You (feat. Cardi B) - Cardi B Version,0.568,0.0505,0.851
+Khalid,Love Lies (with Normani),0.0956,0.0449,0.708
+Drake,Nice For What,0.0891,0.0707,0.585
+Kendrick Lamar,LOVE. FEAT. ZACARI.,0.264,0.0924,0.8
+Post Malone,Psycho (feat. Ty Dolla $ign),0.546,0.105,0.75
+Lil Nas X,Old Town Road - Remix,0.0533,0.102,0.878
+Billie Eilish,bad guy,0.328,0.375,0.701
+Shawn Mendes,Señorita,0.0392,0.029,0.759
+Ariana Grande,7 rings,0.592,0.334,0.778
+Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,0.533,0.0575,0.755
+Gesaffelstein,Lost in the Fire (feat. The Weeknd),0.0933,0.0363,0.658
+Halsey,Without Me,0.297,0.0705,0.752
+Regard,Ride It,0.177,0.0874,0.88
+Lady Gaga,Shallow,0.371,0.0308,0.572
+Mark Ronson,Nothing Breaks Like a Heart (feat. Miley Cyrus),0.00987,0.0671,0.601
+Lewis Capaldi,Someone You Loved,0.751,0.0319,0.501
+Jax Jones,All Day And Night,0.269,0.0897,0.585
+Mustard,Pure Water (with Migos),0.174,0.127,0.682
+NLE Choppa,Shotta Flow (feat. Blueface) [Remix],0.0251,0.42,0.894
+Kodak Black,ZEZE (feat. Travis Scott & Offset),0.0521,0.176,0.861
+Daddy Yankee,Con Calma,0.11,0.0593,0.737
+Alec Benjamin,Let Me Down Slowly,0.74,0.0318,0.652
+BLACKPINK,Kill This Love,0.318,0.237,0.738
+Offset,Clout (feat. Cardi B),0.228,0.0997,0.919
+MEDUZA,Piece Of Your Heart,0.0404,0.0295,0.677
+Ed Sheeran,Antisocial (with Travis Scott),0.132,0.0495,0.716
+Travis Scott,SICKO MODE,0.00513,0.222,0.834
+Mabel,Mad Love,0.675,0.155,0.631
+Lana Del Rey,Doin' Time,0.404,0.0355,0.641
+DJ Snake,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",0.157,0.228,0.842
+A Boogie Wit da Hoodie,Look Back at It,0.407,0.0413,0.791
+Saweetie,My Type,0.000677,0.258,0.899
+Lil Tecca,Ransom,0.0204,0.287,0.745
+Russ Millions,Keisha & Becky - Remix,0.251,0.478,0.863
+Billie Eilish,lovely (with Khalid),0.934,0.0333,0.351
+Mabel,Don't Call Me Up,0.296,0.147,0.674
+Lil Nas X,Old Town Road,0.0578,0.127,0.907
+Meek Mill,Going Bad (feat. Drake),0.259,0.0905,0.889
+Post Malone,Wow.,0.136,0.208,0.829
+Doja Cat,Juicy,0.0856,0.0661,0.786
+A Boogie Wit da Hoodie,Swervin (feat. 6ix9ine),0.0153,0.303,0.581
+iann dior,emotions,0.0131,0.0395,0.63
+Paulo Londra,Adan y Eva,0.323,0.336,0.767
+Drake,Money In The Grave (Drake ft. Rick Ross),0.101,0.046,0.831
+Lil Nas X,Panini,0.342,0.0752,0.703
+Bad Bunny,MIA (feat. Drake),0.0141,0.0621,0.817
+Polo G,Pop Out (feat. Lil Tjay),0.15,0.467,0.772
+Juice WRLD,Robbery,0.328,0.0457,0.685
+21 Savage,a lot,0.0395,0.086,0.837
+Young Thug,The London (feat. J. Cole & Travis Scott),0.0247,0.147,0.796
+Anuel AA,China,0.0846,0.0882,0.786
+Camila Cabello,Liar,0.0169,0.0456,0.74
+Flipp Dinero,Leave Me Alone,0.107,0.0851,0.792
+Cardi B,Money,0.00534,0.29,0.95
+Ariana Grande,"break up with your girlfriend, i'm bored",0.0421,0.0917,0.726
+Dave,Location (feat. Burna Boy),0.271,0.297,0.812
+Ava Max,Sweet but Psycho,0.0691,0.0476,0.719
+Dua Lipa,Don't Start Now,0.0125,0.0842,0.794
+Young T & Bugsey,Strike a Pose (feat. Aitch),0.0107,0.101,0.531
+Calvin Harris,Giant (with Rag'n'Bone Man),0.016,0.0361,0.807
+Ed Sheeran,Take Me Back to London (feat. Stormzy),0.219,0.216,0.885
+Cardi B,Please Me,0.0642,0.081,0.747
+Stormzy,Vossi Bop,0.13,0.339,0.682
+Tones And I,Dance Monkey,0.692,0.0924,0.824
+Ariana Grande,boyfriend (with Social House),0.119,0.461,0.4
+Bad Bunny,Callaita,0.6,0.309,0.61
+Ava Max,So Am I,0.0737,0.0435,0.682
+Pedro Capó,Calma - Remix,0.323,0.0524,0.826
+J. Cole,MIDDLE CHILD,0.149,0.276,0.837
+Lunay,Soltera - Remix,0.361,0.0432,0.795
+Khalid,Better,0.0984,0.0964,0.442
+Blueface,Thotiana,0.18,0.269,0.906
+DaBaby,Suge,0.0608,0.426,0.876
+AJ Tracey,Ladbroke Grove,0.0939,0.208,0.903
+Billie Eilish,bury a friend,0.74,0.332,0.905
+BTS,Boy With Luv (feat. Halsey),0.0923,0.0965,0.645
+Wiley,Boasty (feat. Idris Elba),0.00915,0.0669,0.887
+Jonas Brothers,Only Human,0.108,0.0722,0.795
+5 Seconds of Summer,Easier,0.489,0.221,0.505
+Avicii,SOS (feat. Aloe Blacc),0.272,0.0715,0.802
+"Tyler, The Creator",EARFQUAKE,0.23,0.0685,0.554
+Ashley O,On A Roll,0.077,0.0906,0.736
+Dominic Fike,3 Nights,0.223,0.0897,0.815
+Sigala,Wish You Well,0.128,0.0575,0.669
+Megan Thee Stallion,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),0.00485,0.155,0.872
+Anuel AA,Secreto,0.602,0.126,0.807
+Sam Feldt,Post Malone (feat. RANI),0.0771,0.122,0.59
+Kehlani,Nights Like This (feat. Ty Dolla $ign),0.367,0.15,0.61
+Sech,Otro Trago,0.136,0.341,0.746
+Post Malone,Better Now,0.331,0.04,0.68
+Ed Sheeran,Cross Me (feat. Chance the Rapper & PnB Rock),0.214,0.12,0.746
+Lauv,i'm so tired...,0.176,0.203,0.599
+iann dior,gone girl,0.162,0.0287,0.677
+Panic! At The Disco,High Hopes,0.193,0.0618,0.579
+Marshmello,One Thing Right,0.0644,0.045,0.659
+Sam Smith,How Do You Sleep?,0.153,0.0925,0.477
+NSG,Options,0.389,0.0894,0.836
+Normani,Motivation,0.0192,0.0984,0.599
+Joel Corry,Sorry,0.0547,0.0562,0.744
+Post Malone,Goodbyes (Feat. Young Thug),0.447,0.0745,0.58
+Jonas Brothers,Sucker,0.0427,0.0588,0.842
+Taylor Swift,Cruel Summer,0.117,0.157,0.552
+Blanco Brown,The Git Up,0.0669,0.109,0.847
+Sam Smith,Dancing With A Stranger (with Normani),0.45,0.0656,0.741
+Post Malone,Circles,0.192,0.0395,0.695
